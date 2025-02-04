@@ -11,7 +11,8 @@
         "name": "Tech Innovations Inc",
         "description": "Tech Innovations Inc is a leading technology company specializing in software development and digital solutions. Our team is dedicated to pushing the boundaries of innovation to deliver exceptional products and services.",
         "contactEmail": "contact@techinnovations.com",
-        "contactPhone": "555-123-4567"
+        "contactPhone": "555-123-4567",
+        "logo": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/30_Atlassian_logo_logos-64.png"
       }
     },
     {
@@ -25,6 +26,7 @@
         "name": "Design Solutions Co",
         "description": "Design Solutions Co is a design agency specializing in user experience design and branding. We are committed to creating visually stunning and user-friendly designs that captivate audiences.",
         "contactEmail": "contact@designsolutions.com",
+        "logo": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/30_Atlassian_logo_logos-64.png",
         "contactPhone": "555-987-6543"
       }
     },
@@ -39,7 +41,8 @@
         "name": "CodeCrafters LLC",
         "description": "CodeCrafters LLC is a software development company specializing in custom web and mobile applications. Our team is passionate about coding and dedicated to delivering top-notch solutions for our clients.",
         "contactEmail": "contact@codecrafters.com",
-        "contactPhone": "555-234-5678"
+        "contactPhone": "555-234-5678",
+        "logo": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/30_Atlassian_logo_logos-64.png"
       }
     },
     {
@@ -53,7 +56,8 @@
         "name": "Data Dynamics Inc",
         "description": "Data Dynamics Inc is a data management company specializing in data analytics and business intelligence solutions. Our team is dedicated to helping businesses harness the power of data to drive growth and success.",
         "contactEmail": "contact@datadynamics.com",
-        "contactPhone": "555-345-6789"
+        "contactPhone": "555-345-6789",
+        "logo": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/30_Atlassian_logo_logos-64.png"
       }
     },
     {
@@ -67,7 +71,8 @@
         "name": "AppWorks Technologies",
         "description": "AppWorks Technologies is a mobile app development company specializing in iOS and Android applications. Our team is committed to delivering innovative and user-friendly apps that exceed client expectations.",
         "contactEmail": "contact@appworks.com",
-        "contactPhone": "555-456-7890"
+        "contactPhone": "555-456-7890",
+        "logo": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/30_Atlassian_logo_logos-64.png"
       }
     },
     {
@@ -81,7 +86,8 @@
         "name": "DataInsights Corp",
         "description": "DataInsights Corp is a data analytics company specializing in predictive modeling and data-driven insights. Our team is dedicated to helping businesses leverage data to make informed decisions and drive growth.",
         "contactEmail": "contact@datainsights.com",
-        "contactPhone": "555-567-8901"
+        "contactPhone": "555-567-8901",
+        "logo": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/30_Atlassian_logo_logos-64.png"
       }
     },
     {
@@ -95,7 +101,8 @@
         "name": "TechSolutions Ltd",
         "description": "TechSolutions Ltd is a technology company specializing in software development and IT consulting. Our team is committed to delivering innovative solutions that address the unique needs of our clients.",
         "contactEmail": "contact@techsolutions.com",
-        "contactPhone": "555-678-9012"
+        "contactPhone": "555-678-9012",
+        "logo": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/30_Atlassian_logo_logos-64.png"
       }
     },
     {
@@ -109,7 +116,8 @@
         "name": "WebWorks Solutions",
         "description": "WebWorks Solutions is a web development agency specializing in custom website design and development. Our team is dedicated to creating visually stunning and user-friendly websites that drive results.",
         "contactEmail": "contact@webworks.com",
-        "contactPhone": "555-789-0123"
+        "contactPhone": "555-789-0123",
+        "logo": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/30_Atlassian_logo_logos-64.png"
       }
     },
     {
@@ -123,7 +131,8 @@
         "name": "FrontEnd Solutions",
         "description": "FrontEnd Solutions is a software development company specializing in front-end technologies and user interface design. Our team is committed to delivering high-quality solutions that exceed client expectations.",
         "contactEmail": "contact@frontend.com",
-        "contactPhone": "555-890-1234"
+        "contactPhone": "555-890-1234",
+        "logo": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/30_Atlassian_logo_logos-64.png"
       }
     },
     {
@@ -137,7 +146,8 @@
         "name": "ProductWorks Inc",
         "description": "ProductWorks Inc is a product development company specializing in product management and innovation consulting. Our team is dedicated to helping businesses bring new products to market and drive growth.",
         "contactEmail": "contact@productworks.com",
-        "contactPhone": "555-901-2345"
+        "contactPhone": "555-901-2345",
+        "logo": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/30_Atlassian_logo_logos-64.png"
       }
     },
     {
@@ -151,7 +161,8 @@
         "name": "CloudWorks Technologies",
         "description": "CloudWorks Technologies is a cloud computing company specializing in infrastructure management and automation. Our team is committed to helping businesses leverage the power of the cloud to drive innovation and efficiency.",
         "contactEmail": "contact@cloudworks.com",
-        "contactPhone": "555-012-3456"
+        "contactPhone": "555-012-3456",
+        "logo": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/30_Atlassian_logo_logos-64.png"
       }
     },
     {
@@ -165,7 +176,8 @@
         "name": "Architect Solutions Inc",
         "description": "Architect Solutions Inc is a software consultancy specializing in software architecture and design. Our team is dedicated to helping businesses build scalable and future-proof software solutions.",
         "contactEmail": "contact@architectsolutions.com",
-        "contactPhone": "555-123-4567"
+        "contactPhone": "555-123-4567",
+        "logo": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/30_Atlassian_logo_logos-64.png"
       }
     },
     {
@@ -179,7 +191,8 @@
         "name": "QAWorks Technologies",
         "description": "QAWorks Technologies is a software testing company specializing in quality assurance and test automation. Our team is committed to delivering high-quality testing solutions that help businesses achieve their goals.",
         "contactEmail": "contact@qaworks.com",
-        "contactPhone": "555-234-5678"
+        "contactPhone": "555-234-5678",
+        "logo": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/30_Atlassian_logo_logos-64.png"
       }
     },
     {
@@ -193,7 +206,8 @@
         "name": "DataWorks Inc",
         "description": "DataWorks Inc is a data management company specializing in database administration and optimization. Our team is dedicated to helping businesses leverage data to drive growth and success.",
         "contactEmail": "contact@dataworks.com",
-        "contactPhone": "555-345-6789"
+        "contactPhone": "555-345-6789",
+        "logo": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/30_Atlassian_logo_logos-64.png"
       }
     },
     {
@@ -207,7 +221,23 @@
         "name": "SysWorks Solutions",
         "description": "SysWorks Solutions is an IT consulting company specializing in system analysis and implementation. Our team is committed to delivering innovative solutions that drive business success.",
         "contactEmail": "contact@sysworks.com",
-        "contactPhone": "555-456-7890"
+        "contactPhone": "555-456-7890",
+        "logo": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/30_Atlassian_logo_logos-64.png"
+      }
+    },
+    {
+      "id": "16",
+      "title": "Cybersecurity Analyst",
+      "type": "Full-Time",
+      "location": "Orlando, FL",
+      "description": "Exciting opportunity for a Cybersecurity Analyst to join our team in Orlando. We are seeking a skilled individual with expertise in cybersecurity and threat detection.",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "SecureWorks Inc",
+        "description": "SecureWorks Inc is a cybersecurity company specializing in threat detection and incident response. Our team is dedicated to helping businesses protect their assets and mitigate risks.",
+        "contactEmail": "contact@secureworks.com",
+        "contactPhone": "555-567-8901",
+        "logo": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/30_Atlassian_logo_logos-64.png"
       }
     },
     {
