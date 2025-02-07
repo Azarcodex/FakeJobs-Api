@@ -1,6 +1,7 @@
 {
   "jobs": [
     {
+      
       "id": "1",
       "title": "Senior Front-End Developer",
       "type": "Full-Time",
@@ -13,30 +14,21 @@
         "contactEmail": "contact@techinnovations.com",
         "contactPhone": "555-123-4567",
         "logo": "https://img.icons8.com/?size=50&id=jmUB0A64IrSB&format=png",
-        "desc" :"Senior Front-End Developer is responsible for designing and improving the overall user experience and user interface of a product or website. In the context of job portals, the designer focuses on creating intuitive, visually appealing, and functional designs that enhance user interaction. The goal is to ensure that job seekers and employers have a seamless experience when navigating the portal to search for jobs, post job openings, or engage with any other features the platform provides."
-,
+        "desc": "Senior Front-End Developer is responsible for designing and improving the overall user experience and user interface of a product or website. In the context of job portals, the designer focuses on creating intuitive, visually appealing, and functional designs that enhance user interaction. The goal is to ensure that job seekers and employers have a seamless experience when navigating the portal to search for jobs, post job openings, or engage with any other features the platform provides."
       },
-        "role" :{
-          "one":"Conducting user research and usability studies to understand user needs, pain points, and behavior.",
-          "two":"Analyzing competitor job portals and gathering industry best practices to inform design decisions.",
-          "three":"Creating wireframes, mockups, and prototypes to visualize and test the design concepts before final development.",
-
-          "four":"Ensuring the design is both user-friendly and aesthetically pleasing.",
-          "five":"Working closely with developers to ensure the designs are implemented accurately in the final product.",
-
-        },
-        
-        "skill":{
-           "one":"Proficiency in design tools such as Adobe XD, Figma, Sketch, or InVision for creating wireframes, mockups, and prototypes.",
-
-          "two":"Knowledge of design tools like Photoshop or Illustrator for creating graphics.",
-
-          "three":"Deep understanding of user-centered design principles, focusing on creating products that prioritize the needs of the user.",
-
-          "four":"Ability to create interactive prototypes and wireframes to represent the structure and flow of the portal before development.",
-          "five":"Strong attention to detail in both visual and functional aspects of the job portal to ensure a polished, professional design.",
-
-        },
+      "role": {
+        "one": "Conducting user research and usability studies to understand user needs, pain points, and behavior.",
+        "two": "Analyzing competitor job portals and gathering industry best practices to inform design decisions.",
+        "three": "Creating wireframes, mockups, and prototypes to visualize and test the design concepts before final development.",
+        "four": "Ensuring the design is both user-friendly and aesthetically pleasing.",
+        "five": "Working closely with developers to ensure the designs are implemented accurately in the final product."
+      },
+      "skill": {
+        "one": "Proficiency in design tools such as Adobe XD, Figma, Sketch, or InVision for creating wireframes, mockups, and prototypes.",
+        "two": "Knowledge of design tools like Photoshop or Illustrator for creating graphics.",
+        "three": "Deep understanding of user-centered design principles, focusing on creating products that prioritize the needs of the user.",
+        "four": "Ability to create interactive prototypes and wireframes to represent the structure and flow of the portal before development.",
+        "five": "Strong attention to detail in both visual and functional aspects of the job portal to ensure a polished, professional design."
       }
     },
     {
@@ -52,26 +44,21 @@
         "contactEmail": "contact@designsolutions.com",
         "contactPhone": "555-987-6543",
         "logo": "https://img.icons8.com/?size=48&id=38791&format=png",
-        "desc" :"A UI/UX Designer for a job portal is responsible for designing the user interface of the job search platform, ensuring it is intuitive, engaging, and user-friendly. They create visually appealing layouts and elements to enhance the overall experience for users such as job seekers, employers, and recruiters. The goal is to design interfaces that simplify the job search, application process, and overall site navigation. The UI designer works closely with UX designers, developers, and product managers to turn ideas into practical designs that support the job portal's functionality and brand identity.",
-      ,
+        "desc": "A UI/UX Designer for a job portal is responsible for designing the user interface of the job search platform, ensuring it is intuitive, engaging, and user-friendly. They create visually appealing layouts and elements to enhance the overall experience for users such as job seekers, employers, and recruiters. The goal is to design interfaces that simplify the job search, application process, and overall site navigation. The UI designer works closely with UX designers, developers, and product managers to turn ideas into practical designs that support the job portal's functionality and brand identity."
       },
-      "role" :{
-          "one":"Design wireframes, mockups, and prototypes for the job portal’s user interface.",
-          "two":"Develop visually appealing and responsive web layouts for desktop and mobile users.",
-          "three":"Use design principles to create a seamless, engaging, and accessible experience for users.",
-          "four":"Design components such as buttons, menus, forms, filters, and navigation bars to support user flow.",
-          "five":"Ensure consistency in the design by establishing UI style guides and pattern libraries",
-        },
-        
-        "skill":{
-           "one":"Expertise in design software such as Adobe XD, Sketch, Figma, Photoshop, Illustrator, etc.",
-          "two":"Knowledge of prototyping tools such as InVision, Marvel, or Proto.io.",
-          "three":"Understanding of visual design principles like layout, color theory, typography, and grid systems.",
-          "four":"Knowledge of responsive design to ensure the platform looks great on all devices, especially mobile and desktop.",
-          "five":"Strong grasp of designing for users’ needs, ensuring accessibility and ease of use.",
-
-        },
-        
+      "role": {
+        "one": "Design wireframes, mockups, and prototypes for the job portal’s user interface.",
+        "two": "Develop visually appealing and responsive web layouts for desktop and mobile users.",
+        "three": "Use design principles to create a seamless, engaging, and accessible experience for users.",
+        "four": "Design components such as buttons, menus, forms, filters, and navigation bars to support user flow.",
+        "five": "Ensure consistency in the design by establishing UI style guides and pattern libraries."
+      },
+      "skill": {
+        "one": "Expertise in design software such as Adobe XD, Sketch, Figma, Photoshop, Illustrator, etc.",
+        "two": "Knowledge of prototyping tools such as InVision, Marvel, or Proto.io.",
+        "three": "Understanding of visual design principles like layout, color theory, typography, and grid systems.",
+        "four": "Knowledge of responsive design to ensure the platform looks great on all devices, especially mobile and desktop.",
+        "five": "Strong grasp of designing for users’ needs, ensuring accessibility and ease of use."
       }
     },
     {
@@ -86,23 +73,22 @@
         "description": "CodeCrafters LLC is a software development company specializing in custom web and mobile applications.",
         "contactEmail": "contact@codecrafters.com",
         "contactPhone": "555-234-5678",
-        "logo": "https://img.icons8.com/?size=32&id=yARZtvXu64HF&format=png"
-        "desc":"We're seeking a highly skilled Full Stack Developer to join our team. As a Full Stack Developer, you will be responsible for designing, developing, and deploying scalable, efficient, and reliable software applications. You will work on both front-end and back-end development, ensuring a seamless user experience."
+        "logo": "https://img.icons8.com/?size=32&id=yARZtvXu64HF&format=png",
+        "desc": "We're seeking a highly skilled Full Stack Developer to join our team. As a Full Stack Developer, you will be responsible for designing, developing, and deploying scalable, efficient, and reliable software applications. You will work on both front-end and back-end development, ensuring a seamless user experience."
       },
-      "role":{
-          "one":"Design and develop scalable, efficient, and reliable software applications.",
-          "two":"Work on both front-end (client-side) and back-end (server-side) development.",
-          "three":"Develop and maintain databases, APIs, and server-side logic.",
-          "four":"Ensure seamless user experience and interface across various devices and platforms",
-          "five":"Collaborate with cross-functional teams to identify and prioritize project requirements."
-        },
-        "skills"::{
-          "one":"Proficiency in programming languages such as JavaScript, Python, Ruby, PHP, or Java.",
-          "two":"Experience with front-end frameworks such as React, Angular, or Vue.js.",
-          "three":"Knowledge of back-end frameworks such as Node.js, Ruby on Rails, or Django.",
-          "four":"Familiarity with database management systems such as MySQL, MongoDB, or PostgreSQL.",
-          "five":"Understanding of API design and development"
-        },
+      "role": {
+        "one": "Design and develop scalable, efficient, and reliable software applications.",
+        "two": "Work on both front-end (client-side) and back-end (server-side) development.",
+        "three": "Develop and maintain databases, APIs, and server-side logic.",
+        "four": "Ensure seamless user experience and interface across various devices and platforms.",
+        "five": "Collaborate with cross-functional teams to identify and prioritize project requirements."
+      },
+      "skills": {
+        "one": "Proficiency in programming languages such as JavaScript, Python, Ruby, PHP, or Java.",
+        "two": "Experience with front-end frameworks such as React, Angular, or Vue.js.",
+        "three": "Knowledge of back-end frameworks such as Node.js, Ruby on Rails, or Django.",
+        "four": "Familiarity with database management systems such as MySQL, MongoDB, or PostgreSQL.",
+        "five": "Understanding of API design and development."
       }
     },
     {
@@ -117,26 +103,22 @@
         "description": "Data Dynamics Inc is a data management company specializing in data analytics and business intelligence solutions.",
         "contactEmail": "contact@datadynamics.com",
         "contactPhone": "555-345-6789",
-        "logo": "https://img.icons8.com/?size=48&id=dab2tZoidPfS&format=png"
-        "desc":"We're seeking a highly skilled Backend Developer to join our team. As a Backend Developer, you will be responsible for designing, developing, and deploying scalable, efficient, and reliable server-side applications."
+        "logo": "https://img.icons8.com/?size=48&id=dab2tZoidPfS&format=png",
+        "desc": "We're seeking a highly skilled Backend Developer to join our team. As a Backend Developer, you will be responsible for designing, developing, and deploying scalable, efficient, and reliable server-side applications."
       },
-      "role":{
-          "one":"Design and develop scalable, efficient, and reliable server-side applications.",
-          "two":"Develop and maintain databases, APIs, and server-side logic",
-          "three":"Ensure seamless integration with front-end applications.",
-          "four":"Troubleshoot and debug applications to ensure optimal performance.",
-          "five":"stay up-to-date with industry trends, best practices, and emerging technologies."
-"
-        },
-        "skills":{
-          "one":"Proficiency in programming languages such as Java, Python, Ruby, PHP, or Node.js.",
-          "two":"Proficiency in programming languages such as Java, Python, Ruby, PHP, or Node.js.",
-          "three":"Familiarity with database management systems such as MySQL, MongoDB, or PostgreSQL.",
-          "four":"Understanding of API design and development.",
-          "five":" Strong problem-solving skills and attention to detail."
-"
-        },
-      
+      "role": {
+        "one": "Design and develop scalable, efficient, and reliable server-side applications.",
+        "two": "Develop and maintain databases, APIs, and server-side logic.",
+        "three": "Ensure seamless integration with front-end applications.",
+        "four": "Troubleshoot and debug applications to ensure optimal performance.",
+        "five": "Stay up-to-date with industry trends, best practices, and emerging technologies."
+      },
+      "skills": {
+        "one": "Proficiency in programming languages such as Java, Python, Ruby, PHP, or Node.js.",
+        "two": "Experience with server-side frameworks such as Spring, Django, or Express.js.",
+        "three": "Familiarity with database management systems such as MySQL, MongoDB, or PostgreSQL.",
+        "four": "Understanding of API design and development.",
+        "five": "Strong problem-solving skills and attention to detail."
       }
     },
     {
@@ -151,24 +133,22 @@
         "description": "AppWorks Technologies is a mobile app development company specializing in iOS and Android applications.",
         "contactEmail": "contact@appworks.com",
         "contactPhone": "555-456-7890",
-        "logo": "https://img.icons8.com/?size=50&id=plGtOZBaJQgQ&format=png"
-         "desc":"We're seeking a highly skilled Mobile App Developer to join our team. As a Mobile App Developer, you will be responsible for designing, developing, and deploying mobile applications for Android and iOS devices."
+        "logo": "https://img.icons8.com/?size=50&id=plGtOZBaJQgQ&format=png",
+        "desc": "We're seeking a highly skilled Mobile App Developer to join our team. As a Mobile App Developer, you will be responsible for designing, developing, and deploying mobile applications for Android and iOS devices."
       },
-      "role":{
-          "one":"Design and develop mobile applications for Android and iOS devices.",
-          "two":"Develop and maintain high-quality, scalable, and efficient mobile applications.",
-          "three":"Collaborate with cross-functional teams to identify and prioritize project requirements.",
-          "four":"Troubleshoot and debug applications to ensure optimal performance.",
-          "five":"Stay up-to-date with industry trends, best practices, and emerging technologies."
-"
-        },
-        "skills":{
-          "one":"Proficiency in programming languages such as Java, Swift, Kotlin, or React Native.",
-          "two":"Experience with mobile app development frameworks such as Android Studio, Xcode, or React Native.",
-          "three":"Familiarity with database management systems such as SQLite, Realm, or Firebase.",
-          "four":"Understanding of API design and development.",
-          "five":"Strong problem-solving skills and attention to detail."
-        },
+      "role": {
+        "one": "Design and develop mobile applications for Android and iOS devices.",
+        "two": "Develop and maintain high-quality, scalable, and efficient mobile applications.",
+        "three": "Collaborate with cross-functional teams to identify and prioritize project requirements.",
+        "four": "Troubleshoot and debug applications to ensure optimal performance.",
+        "five": "Stay up-to-date with industry trends, best practices, and emerging technologies."
+      },
+      "skills": {
+        "one": "Proficiency in programming languages such as Java, Swift, Kotlin, or React Native.",
+        "two": "Experience with mobile app development frameworks such as Android Studio, Xcode, or React Native.",
+        "three": "Familiarity with database management systems such as SQLite, Realm, or Firebase.",
+        "four": "Understanding of API design and development.",
+        "five": "Strong problem-solving skills and attention to detail."
       }
     },
     {
@@ -183,23 +163,22 @@
         "description": "DataInsights Corp is a data analytics company specializing in predictive modeling and data-driven insights.",
         "contactEmail": "contact@datainsights.com",
         "contactPhone": "555-567-8901",
-        "logo": "https://img.icons8.com/?size=64&id=t3eeibv3OwHD&format=png"
-         "desc":"We are seeking a highly skilled and experienced Data Scientist to join our team. As a Data Scientist, you will play a crucial role in extracting insights and knowledge from structured and unstructured data to inform business decisions. You will work closely with cross-functional teams to design, develop, and deploy data-driven solutions that drive business growth and improvement."
+        "logo": "https://img.icons8.com/?size=64&id=t3eeibv3OwHD&format=png",
+        "desc": "We are seeking a highly skilled and experienced Data Scientist to join our team. As a Data Scientist, you will play a crucial role in extracting insights and knowledge from structured and unstructured data to inform business decisions. You will work closely with cross-functional teams to design, develop, and deploy data-driven solutions that drive business growth and improvement."
       },
-      "role":{
-          "one":" Collect, clean, and preprocess large datasets from various sources, including databases, APIs, and files.",
-          "two":": Develop and implement machine learning models and algorithms to analyze and interpret complex data.",
-          "three":": Analyze and interpret complex data to extract insights and identify trends and patterns.",
-          "four":": Communicate findings and recommendations to stakeholders through clear and effective data visualization and presentation",
-          "five":" Stay current with industry trends, tools, and methodologies to continuously improve skills and knowledge."
-        },
-        "skills":{
-          "one":"A strong educational background in a quantitative field is required.",
-          "two":"Proficiency in programming languages such as Python, R, or SQL is required.",
-          "three":"Experience with machine learning frameworks such as scikit-learn, TensorFlow, or PyTorch is required.",
-          "four":"Familiarity with data visualization tools such as Tableau, Power BI, or D3.js is required.",
-          "five":" A strong understanding of statistical modeling and data analysis is required."
-        },
+      "role": {
+        "one": "Collect, clean, and preprocess large datasets from various sources, including databases, APIs, and files.",
+        "two": "Develop and implement machine learning models and algorithms to analyze and interpret complex data.",
+        "three": "Analyze and interpret complex data to extract insights and identify trends and patterns.",
+        "four": "Communicate findings and recommendations to stakeholders through clear and effective data visualization and presentation.",
+        "five": "Stay current with industry trends, tools, and methodologies to continuously improve skills and knowledge."
+      },
+      "skills": {
+        "one": "A strong educational background in a quantitative field is required.",
+        "two": "Proficiency in programming languages such as Python, R, or SQL is required.",
+        "three": "Experience with machine learning frameworks such as scikit-learn, TensorFlow, or PyTorch is required.",
+        "four": "Familiarity with data visualization tools such as Tableau, Power BI, or D3.js is required.",
+        "five": "A strong understanding of statistical modeling and data analysis is required."
       }
     },
     {
@@ -214,27 +193,24 @@
         "description": "TechSolutions Ltd is a technology company specializing in software development and IT consulting.",
         "contactEmail": "contact@techsolutions.com",
         "contactPhone": "555-678-9012",
-        "logo": "https://img.icons8.com/?size=80&id=zsi12VJBEa82&format=png"
-         "desc":"We are seeking a highly skilled and experienced Software Engineer to join our team. As a Software Engineer, you will be responsible for designing, developing, testing, and maintaining software applications. You will work closely with cross-functional teams to identify and prioritize project requirements, and develop high-quality software solutions that meet business needs."
+        "logo": "https://img.icons8.com/?size=80&id=zsi12VJBEa82&format=png",
+        "desc": "We are seeking a highly skilled and experienced Software Engineer to join our team. As a Software Engineer, you will be responsible for designing, developing, testing, and maintaining software applications. You will work closely with cross-functional teams to identify and prioritize project requirements, and develop high-quality software solutions that meet business needs."
       },
-      "role":{
-          "one":"Design, develop, test, and maintain software applications, including front-end, back-end, and full-stack development.",
-          "two":"Design, develop, test, and maintain software applications, including front-end, back-end, and full-stack development.",
-          "three":"Troubleshoot and debug software applications to identify and resolve issues.",
-          "four":"Develop and execute unit tests, integration tests, and other types of tests to ensure software quality.",
-          "five":" Communicate technical information to non-technical stakeholders, including project managers, product managers, and customers."
-        },
-        "skills":{
-          "one":"",
-          "two":"",
-          "three":"",
-          "four":"",
-          "five":""
-        },
+      "role": {
+        "one": "Design, develop, test, and maintain software applications, including front-end, back-end, and full-stack development.",
+        "two": "Collaborate with cross-functional teams to identify and prioritize project requirements.",
+        "three": "Troubleshoot and debug software applications to identify and resolve issues.",
+        "four": "Develop and execute unit tests, integration tests, and other types of tests to ensure software quality.",
+        "five": "Communicate technical information to non-technical stakeholders, including project managers, product managers, and customers."
+      },
+      "skills": {
+        "one": "Proficiency in programming languages such as Java, Python, C#, or C++.",
+        "two": "Experience with software development frameworks such as Spring, .NET, or Django.",
+        "three": "Familiarity with database management systems such as MySQL, MongoDB, or PostgreSQL.",
+        "four": "Understanding of API design and development.",
+        "five": "Strong problem-solving skills and attention to detail."
       }
     },
-  
-
     {
       "id": "8",
       "title": "Web Developer",
@@ -247,782 +223,697 @@
         "description": "WebWorks Solutions is a web development agency specializing in custom website design and development. Our team is dedicated to creating visually stunning and user-friendly websites that drive results.",
         "contactEmail": "contact@webworks.com",
         "contactPhone": "555-789-0123",
-          "logo": "https://img.icons8.com/?size=80&id=a2kKoUPT8_-A&format=png"
-         "desc":"We are seeking a highly skilled and experienced Web Developer to join our team. As a Web Developer, you will be responsible for designing, developing, testing, and maintaining web applications. You will work closely with cross-functional teams to identify and prioritize project requirements, and develop high-quality web solutions that meet business needs."
+        "logo": "https://img.icons8.com/?size=80&id=a2kKoUPT8_-A&format=png",
+        "desc": "We are seeking a highly skilled and experienced Web Developer to join our team. As a Web Developer, you will be responsible for designing, developing, testing, and maintaining web applications. You will work closely with cross-functional teams to identify and prioritize project requirements, and develop high-quality web solutions that meet business needs."
       },
-      "role":{
-          "one":" Design, develop, test, and maintain web applications, including front-end, back-end, and full-stack development.",
-          "two":" Work closely with cross-functional teams, including product management, design, and quality assurance, to identify and prioritize project requirements.",
-          "three":"Troubleshoot and debug web applications to identify and resolve issues.",
-          "four":" Ensure high-quality, readable, and maintainable code by following best practices and coding standards.",
-          "five":" Develop and execute unit tests, integration tests, and other types of tests to ensure web application quality."
-        },
-        "skills":{
-          "one":"Bachelor's or Master's degree in Computer Science, Web Development, or related field.",
-          "two":" Proficiency in one or more programming languages, such as JavaScript, HTML/CSS, PHP, Ruby, or Python.",
-          "three":" Experience with web development frameworks, such as React, Angular, Vue.js, Ruby on Rails, or Django.",
-          "four":"experience with database management systems, such as MySQL, MongoDB, or PostgreSQL.",
-          "five":"Experience with version control systems, such as Git or SVN."
-        },
+      "role": {
+        "one": "Design, develop, test, and maintain web applications, including front-end, back-end, and full-stack development.",
+        "two": "Work closely with cross-functional teams, including product management, design, and quality assurance, to identify and prioritize project requirements.",
+        "three": "Troubleshoot and debug web applications to identify and resolve issues.",
+        "four": "Ensure high-quality, readable, and maintainable code by following best practices and coding standards.",
+        "five": "Develop and execute unit tests, integration tests, and other types of tests to ensure web application quality."
+      },
+      "skills": {
+        "one": "Bachelor's or Master's degree in Computer Science, Web Development, or related field.",
+        "two": "Proficiency in one or more programming languages, such as JavaScript, HTML/CSS, PHP, Ruby, or Python.",
+        "three": "Experience with web development frameworks, such as React, Angular, Vue.js, Ruby on Rails, or Django.",
+        "four": "Experience with database management systems, such as MySQL, MongoDB, or PostgreSQL.",
+        "five": "Experience with version control systems, such as Git or SVN."
       }
     },
+   {
+  "id": "9",
+  "title": "Front-End Developer",
+  "type": "Full-Time",
+  "location": "Boston, MA",
+  "description": "Join our team as a Front-End Developer and work on exciting projects in historic Boston. We are seeking a talented individual with a passion for front-end development and a strong attention to detail.",
+  "salary": "$90K - $110K",
+  "company": {
+    "name": "FrontEnd Solutions",
+    "description": "FrontEnd Solutions is a software development company specializing in front-end technologies and user interface design. Our team is committed to delivering high-quality solutions that exceed client expectations.",
+    "contactEmail": "contact@frontend.com",
+    "contactPhone": "555-890-1234",
+    "logo": "https://img.icons8.com/?size=80&id=1JUHO6zCh8kP&format=png"
+  },
+  "role": {
+    "one": "Design, develop, test, and maintain the front-end of web applications, including UI components, layouts, and interactions.",
+    "two": "Work closely with cross-functional teams, including product management, design, and back-end development, to identify and prioritize project requirements.",
+    "three": "Troubleshoot and debug front-end issues to identify and resolve problems.",
+    "four": "Ensure high-quality, readable, and maintainable code by following best practices and coding standards.",
+    "five": "Develop and execute unit tests, integration tests, and other types of tests to ensure front-end quality."
+  },
+  "skills": {
+    "one": "Bachelor's or Master's degree in Computer Science, Web Development, or a related field.",
+    "two": "Proficiency in one or more programming languages, such as JavaScript, HTML/CSS, and TypeScript.",
+    "three": "Experience with front-end frameworks, such as React, Angular, or Vue.js.",
+    "four": "Understanding of UI/UX design principles and human-centered design approaches.",
+    "five": "Experience with version control systems, such as Git or SVN."
+  }
+},
+
+  {
+  "id": "10",
+  "title": "Product Manager",
+  "type": "Full-Time",
+  "location": "Miami, FL",
+  "description": "Exciting opportunity for a Product Manager to join our team in sunny Miami. We are seeking a strategic thinker with a passion for product development and a track record of delivering successful products to market.",
+  "salary": "$100K - $120K",
+  "company": {
+    "name": "ProductWorks Inc",
+    "description": "ProductWorks Inc is a product development company specializing in product management and innovation consulting. Our team is dedicated to helping businesses bring new products to market and drive growth.",
+    "contactEmail": "contact@productworks.com",
+    "contactPhone": "555-901-2345",
+    "logo": "https://img.icons8.com/?size=80&id=104650&format=png",
+    "desc": "We are seeking an experienced and strategic Product Manager to join our team. As a Product Manager, you will be responsible for leading the development and launch of new products and features, as well as managing the product roadmap and lifecycle. You will work closely with cross-functional teams, including engineering, design, marketing, and sales, to drive product vision, strategy, and execution."
+  },
+  "role": {
+    "one": "Product Vision and Strategy: Develop and maintain a deep understanding of the market, customer needs, and industry trends to inform product vision and strategy.",
+    "two": "Product Roadmap: Create and manage the product roadmap, prioritizing features and requirements based on customer needs, business goals, and technical feasibility.",
+    "three": "Cross-Functional Collaboration: Work closely with engineering, design, marketing, and sales teams to drive product development, launch, and adoption.",
+    "four": "Customer and Market Research: Conduct customer and market research to inform product decisions and validate assumptions.",
+    "five": "Product Launch and Adoption: Develop and execute go-to-market strategies to drive product adoption and revenue growth."
+  },
+  "skills": {
+    "one": "Bachelor's or Master's Degree: Bachelor's or Master's degree in Computer Science, Business Administration, or related field.",
+    "two": "Product Management Experience: 3+ years of experience in product management, product development, or related field.",
+    "three": "Technical Skills: Strong technical skills, including proficiency in product management tools, such as JIRA, Asana, or Trello.",
+    "four": "Testing: Develop and execute unit tests, integration tests, and other types of tests to ensure front-end quality."
+  }
+},
+   {
+  "id": "11",
+  "title": "DevOps Engineer",
+  "type": "Full-Time",
+  "location": "Houston, TX",
+  "description": "Join our team as a DevOps Engineer and work on cutting-edge infrastructure projects in Houston. We are seeking a talented individual with experience in cloud computing and automation.",
+  "salary": "$90K - $110K",
+  "company": {
+    "name": "CloudWorks Technologies",
+    "description": "CloudWorks Technologies is a cloud computing company specializing in infrastructure management and automation. Our team is committed to helping businesses leverage the power of the cloud to drive innovation and efficiency.",
+    "contactEmail": "contact@cloudworks.com",
+    "contactPhone": "555-012-3456",
+    "logo": "https://img.icons8.com/?size=80&id=77065&format=png",
+    "desc": "We are seeking a highly skilled and experienced DevOps Engineer to join our team. As a DevOps Engineer, you will be responsible for designing, implementing, and maintaining scalable cloud infrastructure, automating deployment pipelines, and ensuring system reliability."
+  },
+  "role": {
+    "one": "Design, implement, and manage cloud-based infrastructure using AWS, Azure, or Google Cloud.",
+    "two": "Develop and maintain CI/CD pipelines to automate deployments and improve efficiency.",
+    "three": "Monitor system performance and troubleshoot issues to ensure high availability and reliability.",
+    "four": "Collaborate with development and operations teams to optimize software delivery workflows.",
+    "five": "Implement security best practices and compliance requirements for cloud infrastructure."
+  },
+  "skills": {
+    "one": "Bachelor's or Master's Degree in Computer Science, Information Technology, or a related field.",
+    "two": "3+ years of experience in DevOps, cloud computing, or infrastructure automation.",
+    "three": "Proficiency in cloud platforms such as AWS, Azure, or Google Cloud.",
+    "four": "Experience with CI/CD tools like Jenkins, GitLab CI, or CircleCI.",
+    "five": "Strong scripting skills in Python, Bash, or PowerShell."
+  }
+},
+
     {
-      "id": "9",
-      "title": "Front-End Developer",
-      "type": "Full-Time",
-      "location": "Boston, MA",
-      "description": "Join our team as a Front-End Developer and work on exciting projects in historic Boston. We are seeking a talented individual with a passion for front-end development and a strong attention to detail.",
-      "salary": "$90K - $110K",
-      "company": {
-        "name": "FrontEnd Solutions",
-        "description": "FrontEnd Solutions is a software development company specializing in front-end technologies and user interface design. Our team is committed to delivering high-quality solutions that exceed client expectations.",
-        "contactEmail": "contact@frontend.com",
-        "contactPhone": "555-890-1234",
-          "logo": "https://img.icons8.com/?size=80&id=1JUHO6zCh8kP&format=png"
-         "desc":"We are seeking a highly skilled and experienced Front-End Developer to join our team. As a Front-End Developer, you will be responsible for designing, developing, testing, and maintaining the user interface and user experience of our web applications. You will work closely with cross-functional teams to identify and prioritize project requirements, and develop high-quality front-end solutions that meet business needs."
-      },
-      "role":{
-          "one":"design, develop, test, and maintain the front-end of web applications, including UI components, layouts, and interactions.",
-          "two":" Work closely with cross-functional teams, including product management, design, and back-end development, to identify and prioritize project requirement",
-          "three":"Troubleshoot and debug front-end issues to identify and resolve problems.",
-          "four":"Ensure high-quality, readable, and maintainable code by following best practices and coding standards.",
-          "five":"Develop and execute unit tests, integration tests, and other types of tests to ensure front-end quality."
-        },
-        "skills":{
-          "one":"Bachelor's or Master's Degree: Bachelor's or Master's degree in Computer Science, Web Development, or related field.",
-          "two":" Proficiency in one or more programming languages, such as JavaScript, HTML/CSS, and TypeScript.",
-          "three":": Experience with front-end frameworks, such as React, Angular, or Vue.js",
-          "four":"Understanding of UI/UX design principles and human-centered design approaches.",
-          "five":"Experience with version control systems, such as Git or SVN."
+  "id": "12",
+  "title": "Software Architect",
+  "type": "Full-Time",
+  "location": "Dallas, TX",
+  "description": "Exciting opportunity for a Software Architect to join our team in Dallas. We are seeking a visionary leader with a passion for software design and a track record of architecting scalable and robust systems.",
+  "salary": "$110K - $130K",
+  "company": {
+    "name": "Architect Solutions Inc",
+    "description": "Architect Solutions Inc is a software consultancy specializing in software architecture and design. Our team is dedicated to helping businesses build scalable and future-proof software solutions.",
+    "contactEmail": "contact@architectsolutions.com",
+    "contactPhone": "555-123-4567",
+    "logo": "https://img.icons8.com/?size=80&id=46017&format=png",
+    "desc": "We are seeking an experienced and visionary Software Architect to join our team. As a Software Architect, you will be responsible for designing, developing, and maintaining the overall software architecture of our systems. You will work closely with cross-functional teams to ensure that our software systems meet business requirements, are scalable, maintainable, and align with industry best practices."
+  },
+  "role": {
+    "one": "Technical Leadership: Provide technical leadership and guidance to junior developers, including code reviews, mentoring, and training.",
+    "two": "Ensure seamless integration of our software systems with other systems, services, and infrastructure.",
+    "three": "Provide technical leadership and guidance to development teams, including mentoring, coaching, and code reviews.",
+    "four": "Work closely with cross-functional teams, including product management, development, and operations, to ensure that our software systems meet business requirements.",
+    "five": "Troubleshoot and resolve complex technical issues, including system performance, scalability, and reliability."
+  },
+  "skills": {
+    "one": "Stay current with industry trends, technologies, and best practices to continuously improve skills and knowledge.",
+    "two": "Bachelor's or Master's Degree: Bachelor's or Master's degree in Computer Science, Software Engineering, or related field.",
+    "three": "Proficiency in one or more programming languages, such as Java, C#, Python, or C++.",
+    "four": "Experience with software architecture patterns, such as microservices, event-driven architecture, or service-oriented architecture.",
+    "five": "Experience with cloud platforms, such as AWS, Azure, or Google Cloud."
+  }
+},
 
-        },
-      }
-    },
     {
-      "id": "10",
-      "title": "Product Manager",
-      "type": "Full-Time",
-      "location": "Miami, FL",
-      "description": "Exciting opportunity for a Product Manager to join our team in sunny Miami. We are seeking a strategic thinker with a passion for product development and a track record of delivering successful products to market.",
-      "salary": "$100K - $120K",
-      "company": {
-        "name": "ProductWorks Inc",
-        "description": "ProductWorks Inc is a product development company specializing in product management and innovation consulting. Our team is dedicated to helping businesses bring new products to market and drive growth.",
-        "contactEmail": "contact@productworks.com",
-        "contactPhone": "555-901-2345",
-      
-        "logo": "https://img.icons8.com/?size=80&id=104650&format=png"
-         "desc":"We are seeking an experienced and strategic Product Manager to join our team. As a Product Manager, you will be responsible for leading the development and launch of new products and features, as well as managing the product roadmap and lifecycle. You will work closely with cross-functional teams, including engineering, design, marketing, and sales, to drive product vision, strategy, and execution."
-      },
-      "role":{
-          "one":"Product Vision and Strategy: Develop and maintain a deep understanding of the market, customer needs, and industry trends to inform product vision and strategy.",
-          "two":"Product Roadmap: Create and manage the product roadmap, prioritizing features and requirements based on customer needs, business goals, and technical feasibility.",
-          "three":"Cross-Functional Collaboration: Work closely with engineering, design, marketing, and sales teams to drive product development, launch, and adoption.",
-          "four":" Customer and Market Research: Conduct customer and market research to inform product decisions and validate assumptions.",
-          "five":"Product Launch and Adoption: Develop and execute go-to-market strategies to drive product adoption and revenue growth."
-        },
-        "skills":{
-          "one":"Bachelor's or Master's Degree: Bachelor's or Master's degree in Computer Science, Business Administration, or related field.",
-          "two":"Product Management Experience: 3+ years of experience in product management, product development, or related field.",
-          "three":"Technical Skills: Strong technical skills, including proficiency in product management tools, such as JIRA, Asana, or Trello",
-          "four":"Technical Skills: Strong technical skills, including proficiency in product management tools, such",
-          "five":"Develop and execute unit tests, integration tests, and other types of tests to ensure front-end quality"
-        },
-      }
-    },
+  "id": "13",
+  "title": "Quality Assurance Engineer",
+  "type": "Full-Time",
+  "location": "Philadelphia, PA",
+  "description": "Join our team as a Quality Assurance Engineer and help ensure the quality and reliability of our software products. We are seeking a detail-oriented individual with a passion for testing and problem-solving.",
+  "salary": "$80K - $100K",
+  "company": {
+    "name": "QAWorks Technologies",
+    "description": "QAWorks Technologies is a software testing company specializing in quality assurance and test automation. Our team is committed to delivering high-quality testing solutions that help businesses achieve their goals.",
+    "contactEmail": "contact@qaworks.com",
+    "contactPhone": "555-234-5678",
+    "logo": "https://img.icons8.com/?size=80&id=CCBUFjaGKE9Q&format=png",
+    "desc": "We are seeking a detail-oriented and analytical Quality Assurance Engineer to join our team. As a QA Engineer, you will be responsible for developing and executing test plans, identifying software issues, and working closely with development teams to ensure high-quality software products."
+  },
+  "role": {
+    "one": "Develop and execute test plans, test cases, and test scripts to identify software defects and ensure software quality.",
+    "two": "Collaborate with developers, product managers, and designers to understand project requirements and implement effective testing strategies.",
+    "three": "Perform manual and automated testing, including functional, regression, performance, and security testing.",
+    "four": "Identify, document, and track software defects using issue tracking tools like JIRA or Bugzilla.",
+    "five": "Stay up to date with industry best practices, testing methodologies, and tools to continuously improve the QA process."
+  },
+  "skills": {
+    "one": "Bachelor's or Master's Degree in Computer Science, Software Engineering, or a related field.",
+    "two": "Strong knowledge of software testing methodologies, test automation, and debugging techniques.",
+    "three": "Experience with automated testing tools such as Selenium, Cypress, or Playwright.",
+    "four": "Familiarity with programming languages like Python, Java, or JavaScript for test automation.",
+    "five": "Experience with version control systems such as Git and CI/CD pipelines for automated testing integration."
+  }
+},
+
+   {
+  "id": "14",
+  "title": "Database Administrator",
+  "type": "Full-Time",
+  "location": "San Diego, CA",
+  "description": "Exciting opportunity for a Database Administrator to join our team in San Diego. We are seeking a skilled individual with experience in database management and optimization.",
+  "salary": "$90K - $110K",
+  "company": {
+    "name": "DataWorks Inc",
+    "description": "DataWorks Inc is a data management company specializing in database administration and optimization. Our team is dedicated to helping businesses leverage data to drive growth and success.",
+    "contactEmail": "contact@dataworks.com",
+    "contactPhone": "555-345-6789",
+    "logo": "https://img.icons8.com/?size=80&id=h8ZSTVjOp06E&format=png",
+    "desc": "We are seeking a highly skilled and detail-oriented Database Administrator to join our team. As a DBA, you will be responsible for managing, optimizing, and securing databases, ensuring data integrity and availability."
+  },
+  "role": {
+    "one": "Design, implement, and maintain database systems to ensure high performance, security, and reliability.",
+    "two": "Monitor and optimize database performance, including indexing, query tuning, and storage optimization.",
+    "three": "Develop backup and recovery strategies to ensure data integrity and business continuity.",
+    "four": "Collaborate with developers and system administrators to support application database needs.",
+    "five": "Ensure compliance with data security policies and industry regulations."
+  },
+  "skills": {
+    "one": "Bachelor's or Master's degree in Computer Science, Information Systems, or a related field.",
+    "two": "Proficiency in database management systems such as MySQL, PostgreSQL, SQL Server, or Oracle.",
+    "three": "Experience with database performance tuning, query optimization, and indexing strategies.",
+    "four": "Knowledge of backup, recovery, and disaster recovery best practices.",
+    "five": "Familiarity with cloud-based databases such as AWS RDS, Azure SQL, or Google Cloud Spanner."
+  }
+},
+
+   {
+  "id": "15",
+  "title": "Systems Analyst",
+  "type": "Full-Time",
+  "location": "Las Vegas, NV",
+  "description": "Join our team as a Systems Analyst and help design and implement efficient IT systems. We are seeking a detail-oriented individual with a strong analytical mindset.",
+  "salary": "$80K - $100K",
+  "company": {
+    "name": "SysWorks Solutions",
+    "description": "SysWorks Solutions is an IT consulting company specializing in system analysis and implementation. Our team is committed to delivering innovative solutions that drive business success.",
+    "contactEmail": "contact@sysworks.com",
+    "contactPhone": "555-456-7890",
+    "logo": "https://img.icons8.com/?size=80&id=XyRxWLBhbIPw&format=png",
+    "desc": "We are seeking a detail-oriented and analytical Systems Analyst to join our team. As a Systems Analyst, you will be responsible for assessing business processes, identifying system requirements, and working with developers to implement efficient IT solutions."
+  },
+  "role": {
+    "one": "Analyze business requirements and translate them into system specifications.",
+    "two": "Collaborate with stakeholders to understand system needs and recommend improvements.",
+    "three": "Work with developers and IT teams to implement, test, and deploy system solutions.",
+    "four": "Troubleshoot and resolve system issues, ensuring smooth operation of IT services.",
+    "five": "Document system processes, workflows, and requirements for future reference."
+  },
+  "skills": {
+    "one": "Bachelor's or Master's degree in Computer Science, Information Systems, or a related field.",
+    "two": "Strong analytical and problem-solving skills to assess business needs and system functionality.",
+    "three": "Experience with system analysis, process modeling, and workflow automation.",
+    "four": "Knowledge of databases, SQL, and data analysis tools.",
+    "five": "Familiarity with enterprise software, ERP systems, and cloud technologies."
+  }
+},
+
     {
-      "id": "11",
-      "title": "DevOps Engineer",
-      "type": "Full-Time",
-      "location": "Houston, TX",
-      "description": "Join our team as a DevOps Engineer and work on cutting-edge infrastructure projects in Houston. We are seeking a talented individual with experience in cloud computing and automation.",
-      "salary": "$90K - $110K",
-      "company": {
-        "name": "CloudWorks Technologies",
-        "description": "CloudWorks Technologies is a cloud computing company specializing in infrastructure management and automation. Our team is committed to helping businesses leverage the power of the cloud to drive innovation and efficiency.",
-        "contactEmail": "contact@cloudworks.com",
-        "contactPhone": "555-012-3456",
-      
-        "logo": "https://img.icons8.com/?size=80&id=77065&format=png"
-           "desc":"We are seeking a highly skilled and experienced Front-End Developer to join our team. As a Front-End Developer, you will be responsible for designing, developing, testing, and maintaining the user interface and user experience of our web applications. You will work closely with cross-functional teams to identify and prioritize project requirements, and develop high-quality front-end solutions that meet business needs."
-      },
-      "role":{
-          "one":"design, develop, test, and maintain the front-end of web applications, including UI components, layouts, and interactions.",
-          "two":" Work closely with cross-functional teams, including product management, design, and back-end development, to identify and prioritize project requirement",
-          "three":"Troubleshoot and debug front-end issues to identify and resolve problems.",
-          "four":"Ensure high-quality, readable, and maintainable code by following best practices and coding standards.",
-          "five":"Develop and execute unit tests, integration tests, and other types of tests to ensure front-end quality."
-        },
-        "skills":{
-          "one":"Bachelor's or Master's Degree: Bachelor's or Master's degree in Computer Science, Web Development, or related field.",
-          "two":" Proficiency in one or more programming languages, such as JavaScript, HTML/CSS, and TypeScript.",
-          "three":": Experience with front-end frameworks, such as React, Angular, or Vue.js",
-          "four":"Understanding of UI/UX design principles and human-centered design approaches.",
-          "five":"Experience with version control systems, such as Git or SVN."
-"
-        },
-      }
-    },
+  "id": "16",
+  "title": "Cybersecurity Analyst",
+  "type": "Full-Time",
+  "location": "Orlando, FL",
+  "description": "Exciting opportunity for a Cybersecurity Analyst to join our team in Orlando. We are seeking a skilled individual with expertise in cybersecurity and threat detection.",
+  "salary": "$90K - $110K",
+  "company": {
+    "name": "SecureWorks Inc",
+    "description": "SecureWorks Inc is a cybersecurity company specializing in threat detection and incident response. Our team is dedicated to helping businesses protect their assets and mitigate risks.",
+    "contactEmail": "contact@secureworks.com",
+    "contactPhone": "555-567-8901",
+    "logo": "https://img.icons8.com/?size=80&id=118401&format=png",
+    "desc": "We are seeking a highly skilled and experienced Cybersecurity Analyst to join our team. As a Cybersecurity Analyst, you will be responsible for monitoring security threats, investigating incidents, and implementing security measures to protect our systems."
+  },
+  "role": {
+    "one": "Monitor and analyze security threats and vulnerabilities.",
+    "two": "Investigate and respond to security incidents and breaches.",
+    "three": "Develop and implement security protocols, policies, and best practices.",
+    "four": "Collaborate with IT and development teams to enhance security measures.",
+    "five": "Conduct security audits, penetration testing, and risk assessments."
+  },
+  "skills": {
+    "one": "Bachelor's or Master's degree in Cybersecurity, Information Security, or a related field.",
+    "two": "Proficiency in security tools such as SIEM, firewalls, IDS/IPS, and endpoint protection.",
+    "three": "Experience with penetration testing and vulnerability assessment tools.",
+    "four": "Knowledge of security frameworks such as NIST, ISO 27001, or CIS Controls.",
+    "five": "Familiarity with programming/scripting languages like Python, PowerShell, or Bash."
+  }
+},
+
+   {
+  "id": "17",
+  "title": "Network Engineer",
+  "type": "Full-Time",
+  "location": "Detroit, MI",
+  "description": "Join our team as a Network Engineer and help design and maintain our network infrastructure. We are seeking a talented individual with experience in network design and troubleshooting.",
+  "salary": "$80K - $100K",
+  "company": {
+    "name": "NetWorks Technologies",
+    "description": "NetWorks Technologies is a network infrastructure company specializing in network design and optimization. Our team is committed to delivering reliable and scalable network solutions.",
+    "contactEmail": "contact@networks.com",
+    "contactPhone": "555-678-9012",
+    "logo": "https://img.icons8.com/?size=80&id=YRMZko4GlquD&format=png"
+  },
+  "role": {
+    "one": "Design, implement, and maintain network infrastructure, including routers, switches, and firewalls.",
+    "two": "Work closely with IT teams to troubleshoot and resolve network issues.",
+    "three": "Ensure network security by implementing best practices and monitoring for vulnerabilities.",
+    "four": "Optimize network performance and scalability through regular analysis and upgrades.",
+    "five": "Document network configurations, policies, and procedures for internal use."
+  },
+  "skills": {
+    "one": "Bachelor's or Master's degree in Computer Science, Network Engineering, or related field.",
+    "two": "Proficiency in network protocols such as TCP/IP, DNS, and BGP.",
+    "three": "Experience with network hardware including Cisco, Juniper, or similar equipment.",
+    "four": "Understanding of network security principles and firewall management.",
+    "five": "Experience with network monitoring tools and troubleshooting techniques."
+  }
+},
+``
+
     {
-      "id": "12",
-      "title": "Software Architect",
-      "type": "Full-Time",
-      "location": "Dallas, TX",
-      "description": "Exciting opportunity for a Software Architect to join our team in Dallas. We are seeking a visionary leader with a passion for software design and a track record of architecting scalable and robust systems.",
-      "salary": "$110K - $130K",
-      "company": {
-        "name": "Architect Solutions Inc",
-        "description": "Architect Solutions Inc is a software consultancy specializing in software architecture and design. Our team is dedicated to helping businesses build scalable and future-proof software solutions.",
-        "contactEmail": "contact@architectsolutions.com",
-        "contactPhone": "555-123-4567",
-      }
-        "logo": "https://img.icons8.com/?size=80&id=46017&format=png"
-        "desc" :"We are seeking an experienced and visionary Software Architect to join our team. As a Software Architect, you will be responsible for designing, developing, and maintaining the overall software architecture of our systems. You will work closely with cross-functional teams to ensure that our software systems meet business requirements, are scalable, maintainable, and align with industry best practices."
-      },
-      "role" :{
-          "one":"Technical Leadership: Provide technical leadership and guidance to junior developers, including code reviews, mentoring, and training.",
-          "two":" Ensure seamless integration of our software systems with other systems, services, and infrastructure.",
-          "three":"Provide technical leadership and guidance to development teams, including mentoring, coaching, and code reviews.",
-          "four":"Work closely with cross-functional teams, including product management, development, and operations, to ensure that our software systems meet business requirements.",
-          "five":": Troubleshoot and resolve complex technical issues, including system performance, scalability, and reliability.",
-        },
-        
-        "skill":{
-           "one":" Stay current with industry trends, technologies, and best practices to continuously improve skills and knowledge.",
-          "two":"Bachelor's or Master's Degree: Bachelor's or Master's degree in Computer Science, Software Engineering, or related field.",
-          "three":": Proficiency in one or more programming languages, such as Java, C#, Python, or C++.",
-          "four":": Experience with software architecture patterns, such as microservices, event-driven architecture, or service-oriented architecture.",
-          "five":" Experience with cloud platforms, such as AWS, Azure, or Google Cloud."
-        },
-      }
-    },
+  "id": "18",
+  "title": "IT Project Manager",
+  "type": "Full-Time",
+  "location": "Minneapolis, MN",
+  "description": "Exciting opportunity for an IT Project Manager to join our team in Minneapolis. We are seeking a strategic leader with a track record of successfully managing IT projects from initiation to completion.",
+  "salary": "$100K - $120K",
+  "company": {
+    "name": "ProjectWorks Inc",
+    "description": "ProjectWorks Inc is a project management company specializing in IT projects and consulting. Our team is dedicated to delivering successful outcomes for our clients.",
+    "contactEmail": "contact@projectworks.com",
+    "contactPhone": "555-789-0123",
+    "logo": "https://img.icons8.com/?size=80&id=99370&format=png"
+  },
+  "role": {
+    "one": "Lead IT projects from initiation to completion, ensuring timely and within-budget delivery.",
+    "two": "Coordinate with stakeholders, including clients, developers, and IT teams, to define project scope and objectives.",
+    "three": "Develop and maintain project plans, schedules, and budgets to track progress effectively.",
+    "four": "Identify and mitigate risks, ensuring smooth execution of IT projects.",
+    "five": "Prepare project reports and communicate updates to stakeholders and senior management."
+  },
+  "skills": {
+    "one": "Bachelor’s or Master’s degree in IT, Computer Science, Project Management, or a related field.",
+    "two": "Proven experience managing IT projects, including software development, infrastructure, or cloud-based solutions.",
+    "three": "Strong knowledge of project management methodologies such as Agile, Scrum, or Waterfall.",
+    "four": "Excellent communication and leadership skills to work with cross-functional teams.",
+    "five": "Experience with project management tools such as Jira, Trello, or Microsoft Project."
+  }
+},
+
     {
-      "id": "13",
-      "title": "Quality Assurance Engineer",
-      "type": "Full-Time",
-      "location": "Philadelphia, PA",
-      "description": "Join our team as a Quality Assurance Engineer and help ensure the quality and reliability of our software products. We are seeking a detail-oriented individual with a passion for testing and problem-solving.",
-      "salary": "$80K - $100K",
-      "company": {
-        "name": "QAWorks Technologies",
-        "description": "QAWorks Technologies is a software testing company specializing in quality assurance and test automation. Our team is committed to delivering high-quality testing solutions that help businesses achieve their goals.",
-        "contactEmail": "contact@qaworks.com",
-        "contactPhone": "555-234-5678",
-        "logo": "https://img.icons8.com/?size=80&id=CCBUFjaGKE9Q&format=png"
-           "desc":"We are seeking a highly skilled and experienced Front-End Developer to join our team. As a Front-End Developer, you will be responsible for designing, developing, testing, and maintaining the user interface and user experience of our web applications. You will work closely with cross-functional teams to identify and prioritize project requirements, and develop high-quality front-end solutions that meet business needs."
-      },
-      "role":{
-          "one":"design, develop, test, and maintain the front-end of web applications, including UI components, layouts, and interactions.",
-          "two":" Work closely with cross-functional teams, including product management, design, and back-end development, to identify and prioritize project requirement",
-          "three":"Troubleshoot and debug front-end issues to identify and resolve problems.",
-          "four":"Ensure high-quality, readable, and maintainable code by following best practices and coding standards.",
-          "five":"Develop and execute unit tests, integration tests, and other types of tests to ensure front-end quality."
-        },
-        "skills":{
-          "one":"Bachelor's or Master's Degree: Bachelor's or Master's degree in Computer Science, Web Development, or related field.",
-          "two":" Proficiency in one or more programming languages, such as JavaScript, HTML/CSS, and TypeScript.",
-          "three":": Experience with front-end frameworks, such as React, Angular, or Vue.js",
-          "four":"Understanding of UI/UX design principles and human-centered design approaches.",
-          "five":"Experience with version control systems, such as Git or SVN."
-"
-        },
-       
-      }
-    },
+  "id": "19",
+  "title": "Technical Support Specialist",
+  "type": "Full-Time",
+  "location": "Charlotte, NC",
+  "description": "Join our team as a Technical Support Specialist and help provide technical assistance to our customers. We are seeking a customer-focused individual with strong problem-solving skills.",
+  "salary": "$70K - $90K",
+  "company": {
+    "name": "TechSupport Solutions",
+    "description": "TechSupport Solutions is a technical support company specializing in providing assistance to customers with technical issues. Our team is committed to delivering exceptional customer service.",
+    "contactEmail": "contact@techsupport.com",
+    "contactPhone": "555-890-1234",
+    "logo": "https://img.icons8.com/?size=80&id=pbmB9CBpYXDI&format=png"
+  },
+  "role": {
+    "one": "Provide technical support to customers via phone, email, and chat.",
+    "two": "Troubleshoot and resolve hardware, software, and network-related issues.",
+    "three": "Document technical issues and solutions to improve support processes.",
+    "four": "Assist with software installations, updates, and configurations.",
+    "five": "Collaborate with internal teams to escalate complex issues when necessary."
+  },
+  "skills": {
+    "one": "Bachelor’s degree in Computer Science, IT, or a related field, or equivalent experience.",
+    "two": "Strong troubleshooting and problem-solving skills with a customer-first mindset.",
+    "three": "Proficiency in operating systems (Windows, macOS, Linux) and common software applications.",
+    "four": "Experience with remote desktop tools and ticketing systems.",
+    "five": "Excellent verbal and written communication skills for clear customer interactions."
+  }
+},
+
+  {
+  "id": "20",
+  "title": "IT Consultant",
+  "type": "Full-Time",
+  "location": "Atlanta, GA",
+  "description": "Exciting opportunity for an IT Consultant to join our team in Atlanta. We are seeking a versatile individual with expertise in various IT domains and a passion for helping businesses succeed.",
+  "salary": "$90K - $110K",
+  "company": {
+    "name": "ITConsulting Inc",
+    "description": "ITConsulting Inc is an IT consulting company specializing in providing strategic advice and technical expertise to businesses. Our team is dedicated to delivering customized solutions that meet client needs.",
+    "contactEmail": "contact@itconsulting.com",
+    "contactPhone": "555-901-2345",
+    "logo": "https://img.icons8.com/?size=80&id=G6r6ZzcR8khC&format=png"
+  },
+  "role": {
+    "one": "Analyze client IT needs and develop tailored technology solutions.",
+    "two": "Provide expert guidance on IT infrastructure, software, and security improvements.",
+    "three": "Assist businesses in optimizing their IT strategies to improve efficiency and cost-effectiveness.",
+    "four": "Work with clients to implement new systems and train staff on best practices.",
+    "five": "Stay up-to-date with emerging technologies and recommend innovative solutions to clients."
+  },
+  "skills": {
+    "one": "Bachelor’s degree in IT, Computer Science, or a related field.",
+    "two": "Experience in IT consulting, IT strategy, or business technology solutions.",
+    "three": "Proficiency in cloud computing (AWS, Azure, Google Cloud).",
+    "four": "Strong knowledge of cybersecurity, IT compliance, and risk management.",
+    "five": "Excellent communication and problem-solving skills to work effectively with clients."
+  }
+},
+
     {
-      "id": "14",
-      "title": "Database Administrator",
-      "type": "Full-Time",
-      "location": "San Diego, CA",
-      "description": "Exciting opportunity for a Database Administrator to join our team in San Diego. We are seeking a skilled individual with experience in database management and optimization.",
-      "salary": "$90K - $110K",
-      "company": {
-        "name": "DataWorks Inc",
-        "description": "DataWorks Inc is a data management company specializing in database administration and optimization. Our team is dedicated to helping businesses leverage data to drive growth and success.",
-        "contactEmail": "contact@dataworks.com",
-        "contactPhone": "555-345-6789",
-          "logo":"https://img.icons8.com/?size=80&id=h8ZSTVjOp06E&format=png"
-         "desc":"We are seeking a highly skilled and experienced Web Developer to join our team. As a Web Developer, you will be responsible for designing, developing, testing, and maintaining web applications. You will work closely with cross-functional teams to identify and prioritize project requirements, and develop high-quality web solutions that meet business needs."
-      },
-      "role":{
-          "one":" Design, develop, test, and maintain web applications, including front-end, back-end, and full-stack development.",
-          "two":" Work closely with cross-functional teams, including product management, design, and quality assurance, to identify and prioritize project requirements.",
-          "three":"Troubleshoot and debug web applications to identify and resolve issues.",
-          "four":" Ensure high-quality, readable, and maintainable code by following best practices and coding standards.",
-          "five":" Develop and execute unit tests, integration tests, and other types of tests to ensure web application quality."
-        },
-        "skills":{
-          "one":"Bachelor's or Master's degree in Computer Science, Web Development, or related field.",
-          "two":" Proficiency in one or more programming languages, such as JavaScript, HTML/CSS, PHP, Ruby, or Python.",
-          "three":" Experience with web development frameworks, such as React, Angular, Vue.js, Ruby on Rails, or Django.",
-          "four":"experience with database management systems, such as MySQL, MongoDB, or PostgreSQL.",
-          "five":"Experience with version control systems, such as Git or SVN."
-        },
-      
-      }
-    },
+  "id": "21",
+  "title": "Cloud Engineer",
+  "type": "Full-Time",
+  "location": "Nashville, TN",
+  "description": "Join our team as a Cloud Engineer and work on exciting cloud projects in Nashville. We are seeking a skilled individual with experience in cloud infrastructure and deployment.",
+  "salary": "$90K - $110K",
+  "company": {
+    "name": "CloudWorks Technologies",
+    "description": "CloudWorks Technologies is a cloud computing company specializing in infrastructure management and automation. Our team is committed to helping businesses leverage the power of the cloud to drive innovation and efficiency.",
+    "contactEmail": "contact@cloudworks.com",
+    "contactPhone": "555-012-3456",
+    "logo": "https://img.icons8.com/?size=80&id=K1cUzO7Cj2h0&format=png"
+  },
+  "role": {
+    "one": "Design, implement, and maintain cloud-based solutions for clients.",
+    "two": "Manage cloud infrastructure, including provisioning, monitoring, and optimization.",
+    "three": "Develop automation scripts to streamline cloud deployments and management.",
+    "four": "Ensure security best practices are implemented across cloud environments.",
+    "five": "Collaborate with development teams to support cloud-native application development."
+  },
+  "skills": {
+    "one": "Experience with cloud platforms such as AWS, Azure, or Google Cloud.",
+    "two": "Proficiency in infrastructure-as-code tools like Terraform or CloudFormation.",
+    "three": "Strong knowledge of networking, security, and cloud architecture best practices.",
+    "four": "Familiarity with containerization technologies such as Docker and Kubernetes.",
+    "five": "Ability to automate tasks using scripting languages such as Python or Bash."
+  }
+},
+
+   {
+  "id": "22",
+  "title": "Front-End Developer",
+  "type": "Full-Time",
+  "location": "Phoenix, AZ",
+  "description": "Exciting opportunity for a Front-End Developer to join our team in Phoenix. We are seeking a talented individual with a passion for front-end development and a desire to create engaging user experiences.",
+  "salary": "$80K - $100K",
+  "company": {
+    "name": "FrontEnd Solutions",
+    "description": "FrontEnd Solutions is a software development company specializing in front-end technologies and user interface design. Our team is committed to delivering high-quality solutions that exceed client expectations.",
+    "contactEmail": "contact@frontend.com",
+    "contactPhone": "555-234-5678",
+    "logo": "https://img.icons8.com/?size=80&id=105326&format=png",
+    "desc": "A Front-End Developer is responsible for creating and optimizing user interfaces for web applications. They translate UI/UX designs into responsive, interactive, and visually appealing web experiences using modern front-end technologies. The role involves ensuring a seamless user experience, improving website performance, and collaborating with back-end developers, designers, and product teams."
+  },
+  "role": {
+    "one": "Develop, test, and optimize web applications for performance and responsiveness.",
+    "two": "Implement UI/UX designs into functional web pages using HTML, CSS, and JavaScript.",
+    "three": "Work with modern front-end frameworks like React, Angular, or Vue.js.",
+    "four": "Optimize applications for speed and scalability.",
+    "five": "Use version control systems like Git for code management."
+  },
+  "skills": {
+    "one": "Strong understanding of responsive design and CSS frameworks (Tailwind, Bootstrap).",
+    "two": "Experience with front-end build tools (Webpack, Vite, Babel).",
+    "three": "Ability to write clean, maintainable, and reusable code.",
+    "four": "Experience with testing frameworks (Jest, Cypress, Mocha).",
+    "five": "Strong problem-solving skills and attention to detail."
+  }
+},
     {
-      "id": "15",
-      "title": "Systems Analyst",
-      "type": "Full-Time",
-      "location": "Las Vegas, NV",
-      "description": "Join our team as a Systems Analyst and help design and implement efficient IT systems. We are seeking a detail-oriented individual with a strong analytical mindset.",
-      "salary": "$80K - $100K",
-      "company": {
-        "name": "SysWorks Solutions",
-        "description": "SysWorks Solutions is an IT consulting company specializing in system analysis and implementation. Our team is committed to delivering innovative solutions that drive business success.",
-       
-        }   "contactEmail": "contact@sysworks.com",
-        "contactPhone": "555-456-7890",
-          "logo": "https://img.icons8.com/?size=80&id=XyRxWLBhbIPw&format=png"
-        "desc":"We are seeking a highly skilled and experienced Web Developer to join our team. As a Web Developer, you will be responsible for designing, developing, testing, and maintaining web applications. You will work closely with cross-functional teams to identify and prioritize project requirements, and develop high-quality web solutions that meet business needs."
-      },
-      "role":{
-          "one":" Design, develop, test, and maintain web applications, including front-end, back-end, and full-stack development.",
-          "two":" Work closely with cross-functional teams, including product management, design, and quality assurance, to identify and prioritize project requirements.",
-          "three":"Troubleshoot and debug web applications to identify and resolve issues.",
-          "four":" Ensure high-quality, readable, and maintainable code by following best practices and coding standards.",
-          "five":" Develop and execute unit tests, integration tests, and other types of tests to ensure web application quality."
-        },
-        "skills":{
-          "one":"Bachelor's or Master's degree in Computer Science, Web Development, or related field.",
-          "two":" Proficiency in one or more programming languages, such as JavaScript, HTML/CSS, PHP, Ruby, or Python.",
-          "three":" Experience with web development frameworks, such as React, Angular, Vue.js, Ruby on Rails, or Django.",
-          "four":"experience with database management systems, such as MySQL, MongoDB, or PostgreSQL.",
-          "five":"Experience with version control systems, such as Git or SVN."
-        },
-       
-      }
-    },
+  "id": "23",
+  "title": "Machine Learning Engineer",
+  "type": "Full-Time",
+  "location": "San Antonio, TX",
+  "description": "Join our team as a Machine Learning Engineer and work on cutting-edge AI projects in San Antonio. We are seeking a talented individual with expertise in machine learning algorithms and data analysis.",
+  "salary": "$100K - $120K",
+  "company": {
+    "name": "AIWorks Technologies",
+    "description": "AIWorks Technologies is an AI company specializing in machine learning and data science. Our team is dedicated to pushing the boundaries of AI to solve real-world problems.",
+    "contactEmail": "contact@aiworks.com",
+    "contactPhone": "555-345-6789",
+    "logo": "https://img.icons8.com/?size=80&id=stNaiQg6xw8H&format=png",
+    "desc": "A Machine Learning Engineer is responsible for designing, developing, and deploying machine learning models and algorithms to solve real-world problems. They work closely with data scientists, software engineers, and business stakeholders to create scalable AI-driven solutions. The role involves data preprocessing, model training, evaluation, and optimization to ensure high performance and accuracy."
+  },
+  "role": {
+    "one": "Design, develop, and optimize machine learning models and algorithms.",
+    "two": "Collect, clean, and preprocess large datasets for model training.",
+    "three": "Implement deep learning, natural language processing (NLP), and computer vision techniques as needed.",
+    "four": "Deploy models into production using MLOps and cloud platforms.",
+    "five": "Monitor and fine-tune model performance to ensure reliability."
+  },
+  "skills": {
+    "one": "Proficiency in Python, R, or Julia for machine learning development.",
+    "two": "Strong understanding of ML frameworks (TensorFlow, PyTorch, Scikit-Learn).",
+    "three": "Familiarity with deep learning, NLP, and computer vision techniques.",
+    "four": "Experience with model deployment (Docker, Kubernetes, Flask, FastAPI).",
+    "five": "Strong knowledge of algorithms, statistics, and data structures."
+  }
+},
+
     {
-      "id": "16",
-      "title": "Cybersecurity Analyst",
-      "type": "Full-Time",
-      "location": "Orlando, FL",
-      "description": "Exciting opportunity for a Cybersecurity Analyst to join our team in Orlando. We are seeking a skilled individual with expertise in cybersecurity and threat detection.",
-      "salary": "$90K - $110K",
-      "company": {
-        "name": "SecureWorks Inc",
-        "description": "SecureWorks Inc is a cybersecurity company specializing in threat detection and incident response. Our team is dedicated to helping businesses protect their assets and mitigate risks.",
-        "contactEmail": "contact@secureworks.com",
-        "contactPhone": "555-567-8901",
-          "logo": "https://img.icons8.com/?size=80&id=118401&format=png"
-         "desc":"We are seeking a highly skilled and experienced Web Developer to join our team. As a Web Developer, you will be responsible for designing, developing, testing, and maintaining web applications. You will work closely with cross-functional teams to identify and prioritize project requirements, and develop high-quality web solutions that meet business needs."
-      },
-      "role":{
-          "one":" Design, develop, test, and maintain web applications, including front-end, back-end, and full-stack development.",
-          "two":" Work closely with cross-functional teams, including product management, design, and quality assurance, to identify and prioritize project requirements.",
-          "three":"Troubleshoot and debug web applications to identify and resolve issues.",
-          "four":" Ensure high-quality, readable, and maintainable code by following best practices and coding standards.",
-          "five":" Develop and execute unit tests, integration tests, and other types of tests to ensure web application quality."
-        },
-        "skills":{
-          "one":"Bachelor's or Master's degree in Computer Science, Web Development, or related field.",
-          "two":" Proficiency in one or more programming languages, such as JavaScript, HTML/CSS, PHP, Ruby, or Python.",
-          "three":" Experience with web development frameworks, such as React, Angular, Vue.js, Ruby on Rails, or Django.",
-          "four":"experience with database management systems, such as MySQL, MongoDB, or PostgreSQL.",
-          "five":"Experience with version control systems, such as Git or SVN."
-        },
-      
-      }
-    },
+  "id": "24",
+  "title": "Software Developer",
+  "type": "Full-Time",
+  "location": "Salt Lake City, UT",
+  "description": "Exciting opportunity for a Software Developer to join our team in Salt Lake City. We are seeking a versatile individual with experience in both front-end and back-end development.",
+  "salary": "$90K - $110K",
+  "company": {
+    "name": "TechSolutions Ltd",
+    "description": "TechSolutions Ltd is a technology company specializing in software development and IT consulting. Our team is committed to delivering innovative solutions that address the unique needs of our clients.",
+    "contactEmail": "contact@techsolutions.com",
+    "contactPhone": "555-456-7890",
+    "logo": "https://img.icons8.com/?size=80&id=SGGbfShM7huF&format=png",
+    "desc": "A Software Developer is responsible for designing, developing, testing, and maintaining software applications. They work closely with teams to understand requirements, write clean and efficient code, and ensure high-performance, scalable software solutions. The role involves problem-solving, debugging, and implementing new features to enhance user experience and business functionality."
+  },
+  "role": {
+    "one": "Develop, test, and deploy high-quality software applications.",
+    "two": "Write clean, efficient, and maintainable code following best practices.",
+    "three": "Collaborate with cross-functional teams, including designers and product managers.",
+    "four": "Troubleshoot and debug applications to ensure smooth functionality.",
+    "five": "Optimize software performance and scalability."
+  },
+  "skills": {
+    "one": "Proficiency in programming languages like JavaScript, Python, Java, C#, or C++.",
+    "two": "Strong knowledge of databases (SQL, MySQL, PostgreSQL, MongoDB).",
+    "three": "Familiarity with version control systems (Git, GitHub, GitLab).",
+    "four": "Understanding of cloud platforms (AWS, Azure, Google Cloud).",
+    "five": "Strong problem-solving and analytical skills."
+  }
+},
+
+   {
+  "id": "25",
+  "title": "Systems Administrator",
+  "type": "Full-Time",
+  "location": "Tampa, FL",
+  "description": "Join our team as a Systems Administrator and help manage our IT infrastructure in sunny Tampa. We are seeking a skilled individual with experience in system administration and network security.",
+  "salary": "$80K - $100K",
+  "company": {
+    "name": "SysAdmin Solutions",
+    "description": "SysAdmin Solutions is an IT consulting company specializing in system administration and network security. Our team is dedicated to helping businesses protect their assets and mitigate risks.",
+    "contactEmail": "contact@sysadmin.com",
+    "contactPhone": "555-567-8901",
+    "logo": "https://img.icons8.com/?size=64&id=lSFUG21G0mE9&format=png",
+    "desc": "A Systems Administrator is responsible for managing, maintaining, and securing an organization's IT infrastructure. They ensure the smooth operation of servers, networks, and other critical systems, troubleshooting issues, performing upgrades, and implementing security measures. The role involves working with hardware, software, cloud services, and security protocols to support business operations efficiently."
+  },
+  "role": {
+    "one": "Install, configure, and maintain servers, networks, and IT systems.",
+    "two": "Monitor system performance and ensure high availability and reliability.",
+    "three": "Implement security best practices, firewalls, and data protection strategies.",
+    "four": "Troubleshoot hardware, software, and network issues.",
+    "five": "Manage user accounts, permissions, and system access."
+  },
+  "skills": {
+    "one": "Strong knowledge of Windows, Linux, and MacOS environments.",
+    "two": "Experience with cloud platforms (AWS, Azure, Google Cloud).",
+    "three": "Networking expertise (TCP/IP, DNS, DHCP, VPNs, firewalls).",
+    "four": "Proficiency in virtualization (VMware, Hyper-V).",
+    "five": "Strong problem-solving and troubleshooting skills."
+  }
+},
+
+   {
+  "id": "26",
+  "title": "UI Designer",
+  "type": "Full-Time",
+  "location": "Charlotte, NC",
+  "description": "Exciting opportunity for a UI Designer to join our team in Charlotte. We are seeking a creative individual with a passion for user interface design and a desire to create intuitive and visually appealing designs.",
+  "salary": "$80K - $100K",
+  "company": {
+    "name": "DesignWorks Inc",
+    "description": "DesignWorks Inc is a design agency specializing in user experience design and branding. Our team is committed to creating visually stunning and user-friendly designs that captivate audiences.",
+    "contactEmail": "contact@designworks.com",
+    "contactPhone": "555-789-0123",
+    "logo": "https://img.icons8.com/?size=64&id=faxtahf7Ssi_&format=png",
+    "desc": "A UI Designer for a job portal is responsible for designing the user interface of the job search platform, ensuring it is intuitive, engaging, and user-friendly. They create visually appealing layouts and elements to enhance the overall experience for users such as job seekers, employers, and recruiters. The goal is to design interfaces that simplify the job search, application process, and overall site navigation. The UI designer works closely with UX designers, developers, and product managers to turn ideas into practical designs that support the job portal's functionality and brand identity."
+  },
+  "role": {
+    "one": "Design wireframes, mockups, and prototypes for the job portal’s user interface.",
+    "two": "Develop visually appealing and responsive web layouts for desktop and mobile users.",
+    "three": "Use design principles to create a seamless, engaging, and accessible experience for users.",
+    "four": "Design components such as buttons, menus, forms, filters, and navigation bars to support user flow.",
+    "five": "Ensure consistency in the design by establishing UI style guides and pattern libraries."
+  },
+  "skills": {
+    "one": "Expertise in design software such as Adobe XD, Sketch, Figma, Photoshop, Illustrator, etc.",
+    "two": "Knowledge of prototyping tools such as InVision, Marvel, or Proto.io.",
+    "three": "Understanding of visual design principles like layout, color theory, typography, and grid systems.",
+    "four": "Knowledge of responsive design to ensure the platform looks great on all devices, especially mobile and desktop.",
+    "five": "Strong grasp of designing for users’ needs, ensuring accessibility and ease of use."
+  }
+},
+
+   {
+  "id": "27",
+  "title": "Network Administrator",
+  "type": "Full-Time",
+  "location": "Denver, CO",
+  "description": "Join our team as a Network Administrator and help manage our network infrastructure in Denver. We are seeking a skilled individual with experience in network administration and troubleshooting.",
+  "salary": "$80K - $100K",
+  "company": {
+    "name": "NetAdmin Solutions",
+    "description": "NetAdmin Solutions is an IT consulting company specializing in network administration and support. Our team is dedicated to providing reliable and secure network solutions.",
+    "contactEmail": "contact@netadmin.com",
+    "contactPhone": "555-901-2345",
+    "logo": "https://img.icons8.com/?size=64&id=65915&format=png",
+    "desc": "A Network Administrator is responsible for the design, implementation, management, and maintenance of an organization’s computer network infrastructure. This role involves overseeing the operation of networking systems such as LANs (Local Area Networks), WANs (Wide Area Networks), intranet, and internet connections. Network Administrators ensure that data flows efficiently and securely within the organization, resolve connectivity issues, and ensure the network is operational at all times. The job demands both technical and problem-solving skills, as well as a proactive approach to maintaining network systems and ensuring smooth communication across various departments."
+  },
+  "role": {
+    "one": "Network Management: Design, configure, and maintain local area networks (LAN), wide area networks (WAN), and other data communication systems.",
+    "two": "Installation & Configuration: Install and configure routers, switches, firewalls, and other network hardware.",
+    "three": "Monitoring & Troubleshooting: Monitor network performance and troubleshoot any issues that arise, including slow data transmission and connectivity problems.",
+    "four": "Security & Backup: Implement network security measures (firewalls, encryption, etc.), monitor for any unauthorized access, and ensure that data backups are regularly completed.",
+    "five": "System Updates: Keep the network up to date by installing system updates and patches."
+  },
+  "skill": {
+    "one": "Technical Knowledge: Strong understanding of networking protocols (TCP/IP, DNS, DHCP, etc.) and network devices (routers, switches, firewalls).",
+    "two": "Network Troubleshooting: Ability to diagnose and resolve issues related to network connectivity, performance, and security.",
+    "three": "Security Knowledge: Proficient in network security protocols and practices (e.g., VPNs, firewalls, intrusion detection systems).",
+    "four": "Network Monitoring Tools: Familiarity with network management tools and software to monitor and optimize network performance (e.g., Wireshark, SolarWinds).",
+    "five": "Operating Systems Expertise: Knowledge of both Windows and Linux-based operating systems, and how they interact within network environments."
+  }
+},
     {
-      "id": "17",
-      "title": "Network Engineer",
-      "type": "Full-Time",
-      "location": "Detroit, MI",
-      "description": "Join our team as a Network Engineer and help design and maintain our network infrastructure. We are seeking a talented individual with experience in network design and troubleshooting.",
-      "salary": "$80K - $100K",
-      "company": {
-        "name": "NetWorks Technologies",
-        "description": "NetWorks Technologies is a network infrastructure company specializing in network design and optimization. Our team is committed to delivering reliable and scalable network solutions.",
-        "contactEmail": "contact@networks.com",
-        "contactPhone": "555-678-9012",
-          "logo": "https://img.icons8.com/?size=80&id=YRMZko4GlquD&format=png"
-        "desc":"We are seeking a highly skilled and experienced Front-End Developer to join our team. As a Front-End Developer, you will be responsible for designing, developing, testing, and maintaining the user interface and user experience of our web applications. You will work closely with cross-functional teams to identify and prioritize project requirements, and develop high-quality front-end solutions that meet business needs."
-      },
-      "role":{
-          "one":"design, develop, test, and maintain the front-end of web applications, including UI components, layouts, and interactions.",
-          "two":" Work closely with cross-functional teams, including product management, design, and back-end development, to identify and prioritize project requirement",
-          "three":"Troubleshoot and debug front-end issues to identify and resolve problems.",
-          "four":"Ensure high-quality, readable, and maintainable code by following best practices and coding standards.",
-          "five":"Develop and execute unit tests, integration tests, and other types of tests to ensure front-end quality."
-        },
-        "skills":{
-          "one":"Bachelor's or Master's Degree: Bachelor's or Master's degree in Computer Science, Web Development, or related field.",
-          "two":" Proficiency in one or more programming languages, such as JavaScript, HTML/CSS, and TypeScript.",
-          "three":": Experience with front-end frameworks, such as React, Angular, or Vue.js",
-          "four":"Understanding of UI/UX design principles and human-centered design approaches.",
-          "five":"Experience with version control systems, such as Git or SVN."
-"
-        },
-      
-      }
-    },
-    {
-      "id": "18",
-      "title": "IT Project Manager",
-      "type": "Full-Time",
-      "location": "Minneapolis, MN",
-      "description": "Exciting opportunity for an IT Project Manager to join our team in Minneapolis. We are seeking a strategic leader with a track record of successfully managing IT projects from initiation to completion.",
-      "salary": "$100K - $120K",
-      "company": {
-        "name": "ProjectWorks Inc",
-        "description": "ProjectWorks Inc is a project management company specializing in IT projects and consulting. Our team is dedicated to delivering successful outcomes for our clients.",
-        "contactEmail": "contact@projectworks.com",
-        "contactPhone": "555-789-0123",
-          "logo": "https://img.icons8.com/?size=80&id=99370&format=png"
-        "desc":"We are seeking a highly skilled and experienced Front-End Developer to join our team. As a Front-End Developer, you will be responsible for designing, developing, testing, and maintaining the user interface and user experience of our web applications. You will work closely with cross-functional teams to identify and prioritize project requirements, and develop high-quality front-end solutions that meet business needs."
-      },
-      "role":{
-          "one":"design, develop, test, and maintain the front-end of web applications, including UI components, layouts, and interactions.",
-          "two":" Work closely with cross-functional teams, including product management, design, and back-end development, to identify and prioritize project requirement",
-          "three":"Troubleshoot and debug front-end issues to identify and resolve problems.",
-          "four":"Ensure high-quality, readable, and maintainable code by following best practices and coding standards.",
-          "five":"Develop and execute unit tests, integration tests, and other types of tests to ensure front-end quality."
-        },
-        "skills":{
-          "one":"Bachelor's or Master's Degree: Bachelor's or Master's degree in Computer Science, Web Development, or related field.",
-          "two":" Proficiency in one or more programming languages, such as JavaScript, HTML/CSS, and TypeScript.",
-          "three":": Experience with front-end frameworks, such as React, Angular, or Vue.js",
-          "four":"Understanding of UI/UX design principles and human-centered design approaches.",
-          "five":"Experience with version control systems, such as Git or SVN."
-"
-        },
-        
-      }
-    },
-    {
-      "id": "19",
-      "title": "Technical Support Specialist",
-      "type": "Full-Time",
-      "location": "Charlotte, NC",
-      "description": "Join our team as a Technical Support Specialist and help provide technical assistance to our customers. We are seeking a customer-focused individual with strong problem-solving skills.",
-      "salary": "$70K - $90K",
-      "company": {
-        "name": "TechSupport Solutions",
-        "description": "TechSupport Solutions is a technical support company specializing in providing assistance to customers with technical issues. Our team is committed to delivering exceptional customer service.",
-        "contactEmail": "contact@techsupport.com",
-        "contactPhone": "555-890-1234",
-          "logo":"https://img.icons8.com/?size=80&id=pbmB9CBpYXDI&format=png"
-          "desc" :"A UI/UX Designer is responsible for designing and improving the overall user experience and user interface of a product or website. In the context of job portals, the designer focuses on creating intuitive, visually appealing, and functional designs that enhance user interaction. The goal is to ensure that job seekers and employers have a seamless experience when navigating the portal to search for jobs, post job openings, or engage with any other features the platform provides."
+  "id": "28",
+  "title": "Software Engineer",
+  "type": "Full-Time",
+  "location": "Dallas, TX",
+  "description": "Exciting opportunity for a Software Engineer to join our team in Dallas. We are seeking a talented individual with a passion for coding and a desire to create innovative software solutions.",
+  "salary": "$90K - $110K",
+  "company": {
+    "name": "CodeCrafters LLC",
+    "description": "CodeCrafters LLC is a software development company specializing in custom web and mobile applications. Our team is passionate about coding and dedicated to delivering top-notch solutions for our clients.",
+    "contactEmail": "contact@codecrafters.com",
+    "contactPhone": "555-012-3456",
+    "logo": "https://img.icons8.com/?size=64&id=48530&format=png",
+    "desc": "A Software Engineer is responsible for designing, developing, and maintaining software applications that power the functionality of a platform. In the context of a job portal, a software engineer works on creating and optimizing the underlying code that supports the job search, job posting, user profiles, and other essential features of the portal. The engineer ensures that the portal is efficient, scalable, and capable of handling high volumes of traffic while meeting the needs of both job seekers and employers."
+  },
+  "role": {
+    "one": "Write clean, efficient, and scalable code for job portal features such as job search functionality, applicant tracking systems, employer dashboards, and user profiles.",
+    "two": "Develop backend services, APIs, and databases to support the front-end and ensure a smooth user experience.",
+    "three": "Design the software architecture for the job portal, ensuring that it can scale as the user base grows.",
+    "four": "Choose the appropriate technologies and frameworks to ensure system reliability, performance, and maintainability.",
+    "five": "Collaborate with UI/UX designers to translate design wireframes into functional, responsive front-end components."
+  },
+  "skill": {
+    "one": "Proficiency in languages such as JavaScript, Python, Ruby, Java, C#, or PHP, depending on the technology stack of the portal.",
+    "two": "Familiarity with frontend libraries and frameworks like React, Angular, or Vue.js, and backend frameworks such as Express.js, Django, or Spring Boot.",
+    "three": "Strong understanding of web development technologies like HTML5, CSS3, and JavaScript.",
+    "four": "Experience with responsive design, ensuring the portal is accessible on all devices (desktop, tablet, mobile).",
+    "five": "Experience working with relational (MySQL, PostgreSQL) or NoSQL databases (MongoDB, Cassandra)."
+  }
+},
 
-      
-      },
-      "role" :{
-          "one":"Conducting user research and usability studies to understand user needs, pain points, and behavior.",
-          "two":"Analyzing competitor job portals and gathering industry best practices to inform design decisions.",
-          "three":"Creating wireframes, mockups, and prototypes to visualize and test the design concepts before final development.",
-
-          "four":"Ensuring the design is both user-friendly and aesthetically pleasing.",
-          "five":"Working closely with developers to ensure the designs are implemented accurately in the final product."
-
-        },
-        
-        "skill":{
-           "one":"Proficiency in design tools such as Adobe XD, Figma, Sketch, or InVision for creating wireframes, mockups, and prototypes.",
-
-          "two":"Knowledge of design tools like Photoshop or Illustrator for creating graphics.",
-
-          "three":"Deep understanding of user-centered design principles, focusing on creating products that prioritize the needs of the user.",
-
-          "four":"Ability to create interactive prototypes and wireframes to represent the structure and flow of the portal before development.",
-          "five":"Strong attention to detail in both visual and functional aspects of the job portal to ensure a polished, professional design."
-
-        },
-       
-      }
-    },
-    {
-      "id": "20",
-      "title": "IT Consultant",
-      "type": "Full-Time",
-      "location": "Atlanta, GA",
-      "description": "Exciting opportunity for an IT Consultant to join our team in Atlanta. We are seeking a versatile individual with expertise in various IT domains and a passion for helping businesses succeed.",
-      "salary": "$90K - $110K",
-      "company": {
-        "name": "ITConsulting Inc",
-        "description": "ITConsulting Inc is an IT consulting company specializing in providing strategic advice and technical expertise to businesses. Our team is dedicated to delivering customized solutions that meet client needs.",
-        "contactEmail": "contact@itconsulting.com",
-        "contactPhone": "555-901-2345",
-          "logo": "https://img.icons8.com/?size=80&id=G6r6ZzcR8khC&format=png"
-        "desc" :"A Systems Administrator is responsible for managing, maintaining, and securing an organization's IT infrastructure. They ensure the smooth operation of servers, networks, and other critical systems, troubleshooting issues, performing upgrades, and implementing security measures. The role involves working with hardware, software, cloud services, and security protocols to support business operations efficiently."
-      },
-      "role" :{
-          "one":"install, configure, and maintain servers, networks, and IT systems.",
-          "two":"Monitor system performance and ensure high availability and reliability.",
-          "three":"Implement security best practices, firewalls, and data protection strategies.",
-          "four":"Troubleshoot hardware, software, and network issues.",
-          "five":"Manage user accounts, permissions, and system access.",
-        },
-        
-        "skill":{
-           "one":"Strong knowledge of Windows, Linux, and MacOS environments.",
-          "two":"Experience with cloud platforms (AWS, Azure, Google Cloud).",
-          "three":"Networking expertise (TCP/IP, DNS, DHCP, VPNs, firewalls).",
-
-          "four":"Proficiency in virtualization (VMware, Hyper-V).",
-          "five":"Strong problem-solving and troubleshooting skills."
-        },
-        
-      }
-    },
-    {
-      "id": "21",
-      "title": "Cloud Engineer",
-      "type": "Full-Time",
-      "location": "Nashville, TN",
-      "description": "Join our team as a Cloud Engineer and work on exciting cloud projects in Nashville. We are seeking a skilled individual with experience in cloud infrastructure and deployment.",
-      "salary": "$90K - $110K",
-      "company": {
-        "name": "CloudWorks Technologies",
-        "description": "CloudWorks Technologies is a cloud computing company specializing in infrastructure management and automation. Our team is committed to helping businesses leverage the power of the cloud to drive innovation and efficiency.",
-        "contactEmail": "contact@cloudworks.com",
-        "contactPhone": "555-012-3456",
-          "logo": "https://img.icons8.com/?size=80&id=K1cUzO7Cj2h0&format=png"
-          "desc" :"A UI/UX Designer is responsible for designing and improving the overall user experience and user interface of a product or website. In the context of job portals, the designer focuses on creating intuitive, visually appealing, and functional designs that enhance user interaction. The goal is to ensure that job seekers and employers have a seamless experience when navigating the portal to search for jobs, post job openings, or engage with any other features the platform provides."
+   {
+  "id": "29",
+  "title": "IT Support Specialist",
+  "type": "Full-Time",
+  "location": "Miami, FL",
+  "description": "Join our team as an IT Support Specialist and help provide technical assistance to our employees. We are seeking a customer-focused individual with strong troubleshooting skills.",
+  "salary": "$70K - $90K",
+  "company": {
+    "name": "TechSupport Solutions",
+    "description": "TechSupport Solutions is a technical support company specializing in providing assistance to customers with technical issues. Our team is committed to delivering exceptional customer service.",
+    "contactEmail": "contact@techsupport.com",
+    "contactPhone": "555-234-5678",
+    "logo": "https://img.icons8.com/?size=50&id=qo70vnk5a9GL&format=png",
+    "desc": "An IT Support Specialist is responsible for providing technical assistance, maintaining hardware and software systems, and troubleshooting IT-related issues for a company or its users. In the context of job portals, the IT Support Specialist ensures that the platform remains functional and accessible to users, addressing any technical challenges that may arise for job seekers, employers, or internal teams."
+  },
+  "role": {
+    "one": "Provide support to users experiencing technical issues with the job portal, including login problems, error messages, and system crashes.",
+    "two": "Respond to and resolve incoming IT support requests via phone, email, or live chat.",
+    "three": "Troubleshoot and diagnose software, hardware, and network issues in a timely manner.",
+    "four": "Ensure that the job portal's systems (servers, applications, databases) are running efficiently by conducting regular maintenance and updates.",
+    "five": "Install, configure, and update software tools necessary for the job portal's smooth operation."
+  },
+  "skill": {
+    "one": "Proficient in troubleshooting hardware and software problems, including operating systems (Windows, macOS, Linux), networking, and cloud-based applications.",
+    "two": "Familiarity with database management, servers, and network infrastructure, as well as web-based applications.",
+    "three": "Strong analytical skills to identify, diagnose, and resolve technical issues quickly and effectively.",
+    "four": "Ability to think critically and provide practical solutions to complex technical problems.",
+    "five": "Strong communication and interpersonal skills to assist users effectively and patiently."
+  }
+},
 
 
-      },
-      "role" :{
-          "one":"Conducting user research and usability studies to understand user needs, pain points, and behavior.",
-          "two":"Analyzing competitor job portals and gathering industry best practices to inform design decisions.",
-          "three":"Creating wireframes, mockups, and prototypes to visualize and test the design concepts before final development.",
+  {
+  "id": "30",
+  "title": "UI/UX Designer",
+  "type": "Full-Time",
+  "location": "Los Angeles, CA",
+  "description": "Exciting opportunity for a UI/UX Designer to join our team in Los Angeles. We are seeking a creative individual with a passion for user experience design and a desire to create seamless and intuitive designs.",
+  "salary": "$80K - $100K",
+  "company": {
+    "name": "UXWorks Inc",
+    "description": "UXWorks Inc is a design agency specializing in user experience design and usability testing. Our team is committed to creating innovative and user-friendly designs that enhance the user experience.",
+    "contactEmail": "contact@uxworks.com",
+    "contactPhone": "555-345-6789",
+    "logo": "https://img.icons8.com/?size=80&id=6cdJEps4HrFl&format=png",
+    "desc": "A UI/UX Designer is responsible for designing and improving the overall user experience and user interface of a product or website. In the context of job portals, the designer focuses on creating intuitive, visually appealing, and functional designs that enhance user interaction. The goal is to ensure that job seekers and employers have a seamless experience when navigating the portal to search for jobs, post job openings, or engage with any other features the platform provides."
+  },
+  "role": {
+    "one": "Conducting user research and usability studies to understand user needs, pain points, and behavior.",
+    "two": "Analyzing competitor job portals and gathering industry best practices to inform design decisions.",
+    "three": "Creating wireframes, mockups, and prototypes to visualize and test the design concepts before final development.",
+    "four": "Ensuring the design is both user-friendly and aesthetically pleasing.",
+    "five": "Working closely with developers to ensure the designs are implemented accurately in the final product."
+  },
+  "skill": {
+    "one": "Proficiency in design tools such as Adobe XD, Figma, Sketch, or InVision for creating wireframes, mockups, and prototypes.",
+    "two": "Knowledge of design tools like Photoshop or Illustrator for creating graphics.",
+    "three": "Deep understanding of user-centered design principles, focusing on creating products that prioritize the needs of the user.",
+    "four": "Ability to create interactive prototypes and wireframes to represent the structure and flow of the portal before development.",
+    "five": "Strong attention to detail in both visual and functional aspects of the job portal to ensure a polished, professional design."
+  }
+},
 
-          "four":"Ensuring the design is both user-friendly and aesthetically pleasing.",
-          "five":"Working closely with developers to ensure the designs are implemented accurately in the final product.",
-
-        },
-        
-        "skill":{
-           "one":"Proficiency in design tools such as Adobe XD, Figma, Sketch, or InVision for creating wireframes, mockups, and prototypes.",
-
-          "two":"Knowledge of design tools like Photoshop or Illustrator for creating graphics.",
-
-          "three":"Deep understanding of user-centered design principles, focusing on creating products that prioritize the needs of the user.",
-
-          "four":"ability to create interactive prototypes and wireframes to represent the structure and flow of the portal before development.",
-          "five":"Strong attention to detail in both visual and functional aspects of the job portal to ensure a polished, professional design."
-
-        },
-       
-      }
-    },
-    {
-      "id": "22",
-      "title": "Front-End Developer",
-      "type": "Full-Time",
-      "location": "Phoenix, AZ",
-      "description": "Exciting opportunity for a Front-End Developer to join our team in Phoenix. We are seeking a talented individual with a passion for front-end development and a desire to create engaging user experiences.",
-      "salary": "$80K - $100K",
-      "company": {
-        "name": "FrontEnd Solutions",
-        "description": "FrontEnd Solutions is a software development company specializing in front-end technologies and user interface design. Our team is committed to delivering high-quality solutions that exceed client expectations.",
-        "contactEmail": "contact@frontend.com",
-        "contactPhone": "555-234-5678",
-          "logo": "https://img.icons8.com/?size=80&id=105326&format=png"
-        "desc" :"A Front-End Developer is responsible for creating and optimizing user interfaces for web applications. They translate UI/UX designs into responsive, interactive, and visually appealing web experiences using modern front-end technologies. The role involves ensuring a seamless user experience, improving website performance, and collaborating with back-end developers, designers, and product teams."
-      },
-      "role" :{
-          "one":"Develop, test, and optimize web applications for performance and responsiveness.",
-          "two":"Implement UI/UX designs into functional web pages using HTML, CSS, and JavaScript.",
-          "three":"Work with modern front-end frameworks like React, Angular, or Vue.js.",
-          "four":"Optimize applications for speed and scalability.",
-          "five":"Use version control systems like Git for code management."
-
-        },
-        
-        "skill":{
-           "one":"Strong understanding of responsive design and CSS frameworks (Tailwind, Bootstrap).",
-          "two":"Experience with front-end build tools (Webpack, Vite, Babel).",
-          "three":"Ability to write clean, maintainable, and reusable code.",
-          "four":"Experience with testing frameworks (Jest, Cypress, Mocha).",
-
-          "five":"Strong problem-solving skills and attention to detail.",
-
-        },
-      }
-    },
-    {
-      "id": "23",
-      "title": "Machine Learning Engineer",
-      "type": "Full-Time",
-      "location": "San Antonio, TX",
-      "description": "Join our team as a Machine Learning Engineer and work on cutting-edge AI projects in San Antonio. We are seeking a talented individual with expertise in machine learning algorithms and data analysis.",
-      "salary": "$100K - $120K",
-      "company": {
-        "name": "AIWorks Technologies",
-        "description": "AIWorks Technologies is an AI company specializing in machine learning and data science. Our team is dedicated to pushing the boundaries of AI to solve real-world problems.",
-        "contactEmail": "contact@aiworks.com",
-        "contactPhone": "555-345-6789",
-          "logo": "https://img.icons8.com/?size=80&id=stNaiQg6xw8H&format=png"
-        "desc" :"A Machine Learning Engineer is responsible for designing, developing, and deploying machine learning models and algorithms to solve real-world problems. They work closely with data scientists, software engineers, and business stakeholders to create scalable AI-driven solutions. The role involves data preprocessing, model training, evaluation, and optimization to ensure high performance and accuracy."
-
-
-      },
-      "role" :{
-          "one":"Design, develop, and optimize machine learning models and algorithms.",
-          "two":"Collect, clean, and preprocess large datasets for model training.",
-          "three":"Implement deep learning, natural language processing (NLP), and computer vision techniques as needed."
-          "four":"Deploy models into production using MLOps and cloud platforms.",
-          "five":"Monitor and fine-tune model performance to ensure reliability."
-        },
-        
-        "skill":{
-           "one":"Proficiency in Python, R, or Julia for machine learning development.",
-          "two":"Strong understanding of ML frameworks (TensorFlow, PyTorch, Scikit-Learn).",
-          "three":"Familiarity with deep learning, NLP, and computer vision techniques.",
-          "four":"Experience with model deployment (Docker, Kubernetes, Flask, FastAPI).",
-          "five":"Strong knowledge of algorithms, statistics, and data structures."
-        },
-      }
-    },
-    {
-      "id": "24",
-      "title": "Software Developer",
-      "type": "Full-Time",
-      "location": "Salt Lake City, UT",
-      "description": "Exciting opportunity for a Software Developer to join our team in Salt Lake City. We are seeking a versatile individual with experience in both front-end and back-end development.",
-      "salary": "$90K - $110K",
-      "company": {
-        "name": "TechSolutions Ltd",
-        "description": "TechSolutions Ltd is a technology company specializing in software development and IT consulting. Our team is committed to delivering innovative solutions that address the unique needs of our clients.",
-        "contactEmail": "contact@techsolutions.com",
-        "contactPhone": "555-456-7890",
-          "logo": "https://img.icons8.com/?size=80&id=SGGbfShM7huF&format=png"
-        "desc" :"A Software Developer is responsible for designing, developing, testing, and maintaining software applications. They work closely with teams to understand requirements, write clean and efficient code, and ensure high-performance, scalable software solutions. The role involves problem-solving, debugging, and implementing new features to enhance user experience and business functionality"
-      },
-      "role" :{
-          "one":"Develop, test, and deploy high-quality software applications.",
-          "two":"Write clean, efficient, and maintainable code following best practices.",
-          "three":"Collaborate with cross-functional teams, including designers and product managers.",
-          "four":"Troubleshoot and debug applications to ensure smooth functionality.",
-          "five":"Optimize software performance and scalability."
-        },
-        
-        "skill":{
-           "one":"Proficiency in programming languages like JavaScript, Python, Java, C#, or C++.",
-          "two":"Strong knowledge of databases (SQL, MySQL, PostgreSQL, MongoDB).",
-
-          "three":"Familiarity with version control systems (Git, GitHub, GitLab).",
-
-          "four":"Understanding of cloud platforms (AWS, Azure, Google Cloud).",
-
-          "five":"Strong problem-solving and analytical skills.",
-        },
-      }
-    },
-    {
-      "id": "25",
-      "title": "Systems Administrator",
-      "type": "Full-Time",
-      "location": "Tampa, FL",
-      "description": "Join our team as a Systems Administrator and help manage our IT infrastructure in sunny Tampa. We are seeking a skilled individual with experience in system administration and network security.",
-      "salary": "$80K - $100K",
-      "company": {
-        "name": "SysAdmin Solutions",
-        "description": "SysAdmin Solutions is an IT consulting company specializing in system administration and network security. Our team is dedicated to helping businesses protect their assets and mitigate risks.",
-        "contactEmail": "contact@sysadmin.com",
-        "contactPhone": "555-567-8901",
-          "logo": "https://img.icons8.com/?size=64&id=lSFUG21G0mE9&format=png"
-         "desc" :"A Systems Administrator is responsible for managing, maintaining, and securing an organization's IT infrastructure. They ensure the smooth operation of servers, networks, and other critical systems, troubleshooting issues, performing upgrades, and implementing security measures. The role involves working with hardware, software, cloud services, and security protocols to support business operations efficiently."
-      },
-      "role" :{
-          "one":"Install, configure, and maintain servers, networks, and IT systems.",
-          "two":"Monitor system performance and ensure high availability and reliability.",
-          "three":"Implement security best practices, firewalls, and data protection strategies.",
-          "four":"Troubleshoot hardware, software, and network issues.",
-          "five":"Manage user accounts, permissions, and system access."
-        },
-        
-        "skill":{
-           "one":"Strong knowledge of Windows, Linux, and MacOS environments.",
-          "two":"Experience with cloud platforms (AWS, Azure, Google Cloud).",
-          "three":"Networking expertise (TCP/IP, DNS, DHCP, VPNs, firewalls).",
-
-          "four":"Proficiency in virtualization (VMware, Hyper-V).",
-          "five":"Strong problem-solving and troubleshooting skills.",
-        },
-      }
-    },
-    {
-      "id": "26",
-      "title": "UI Designer",
-      "type": "Full-Time",
-      "location": "Charlotte, NC",
-      "description": "Exciting opportunity for a UI Designer to join our team in Charlotte. We are seeking a creative individual with a passion for user interface design and a desire to create intuitive and visually appealing designs.",
-      "salary": "$80K - $100K",
-      "company": {
-        "name": "DesignWorks Inc",
-        "description": "DesignWorks Inc is a design agency specializing in user experience design and branding. Our team is committed to creating visually stunning and user-friendly designs that captivate audiences.",
-        "contactEmail": "contact@designworks.com",
-        "contactPhone": "555-789-0123",
-          "logo": "https://img.icons8.com/?size=64&id=faxtahf7Ssi_&format=png"
-         "desc" :"A UI Designer for a job portal is responsible for designing the user interface of the job search platform, ensuring it is intuitive, engaging, and user-friendly. They create visually appealing layouts and elements to enhance the overall experience for users such as job seekers, employers, and recruiters. The goal is to design interfaces that simplify the job search, application process, and overall site navigation. The UI designer works closely with UX designers, developers, and product managers to turn ideas into practical designs that support the job portal's functionality and brand identity."
-      },
-      "role" :{
-          "one":"Design wireframes, mockups, and prototypes for the job portal’s user interface.",
-          "two":"develop visually appealing and responsive web layouts for desktop and mobile users",.
-          "three":"Use design principles to create a seamless, engaging, and accessible experience for users.",
-          "four":"Design components such as buttons, menus, forms, filters, and navigation bars to support user flow.",
-          "five":"Ensure consistency in the design by establishing UI style guides and pattern libraries."
-        },
-        
-        "skill":{
-           "one":"Expertise in design software such as Adobe XD, Sketch, Figma, Photoshop, Illustrator, etc.",
-          "two":"Knowledge of prototyping tools such as InVision, Marvel, or Proto.io.",
-          "three":"Understanding of visual design principles like layout, color theory, typography, and grid systems.",
-          "four":"Knowledge of responsive design to ensure the platform looks great on all devices, especially mobile and desktop.",
-          "five":"Strong grasp of designing for users’ needs, ensuring accessibility and ease of use."
-
-        },
-      }
-    },
-    {
-      "id": "27",
-      "title": "Network Administrator",
-      "type": "Full-Time",
-      "location": "Denver, CO",
-      "description": "Join our team as a Network Administrator and help manage our network infrastructure in Denver. We are seeking a skilled individual with experience in network administration and troubleshooting.",
-      "salary": "$80K - $100K",
-      "company": {
-        "name": "NetAdmin Solutions",
-        "description": "NetAdmin Solutions is an IT consulting company specializing in network administration and support. Our team is dedicated to providing reliable and secure network solutions.",
-        "contactEmail": "contact@netadmin.com",
-        "contactPhone": "555-901-2345",
-          "logo": "https://img.icons8.com/?size=64&id=65915&format=png"
-         "desc" :"A Network Administrator is responsible for the design, implementation, management, and maintenance of an organization’s computer network infrastructure. This role involves overseeing the operation of networking systems such as LANs (Local Area Networks), WANs (Wide Area Networks), intranet, and internet connections. Network Administrators ensure that data flows efficiently and securely within the organization, resolve connectivity issues, and ensure the network is operational at all times. The job demands both technical and problem-solving skills, as well as a proactive approach to maintaining network systems and ensuring smooth communication across various departments."
-
-
-      },
-      "role" :{
-          "one":"Network Management: Design, configure, and maintain local area networks (LAN), wide area networks (WAN), and other data communication systems.",
-          "two":"Installation & Configuration: Install and configure routers, switches, firewalls, and other network hardware.",
-          "three":"Monitoring & Troubleshooting: Monitor network performance and troubleshoot any issues that arise, including slow data transmission and connectivity problems.",
-
-          "four":"Security & Backup: Implement network security measures (firewalls, encryption, etc.), monitor for any unauthorized access, and ensure that data backups are regularly completed.",
-          "five":"System Updates: Keep the network up to date by installing system updates and patches."
-        },
-        
-        "skill":{
-           "one":"Technical Knowledge: Strong understanding of networking protocols (TCP/IP, DNS, DHCP, etc.) and network devices (routers, switches, firewalls).",
-          "two":"Network Troubleshooting: Ability to diagnose and resolve issues related to network connectivity, performance, and security.",
-          "three":"Security Knowledge: Proficient in network security protocols and practices (e.g., VPNs, firewalls, intrusion detection systems).",
-          "four":"Network Monitoring Tools: Familiarity with network management tools and software to monitor and optimize network performance (e.g., Wireshark, SolarWinds).",
-          "five":"Operating Systems Expertise: Knowledge of both Windows and Linux-based operating systems, and how they interact within network environments."
-        },
-      }
-    },
-    {
-      "id": "28",
-      "title": "Software Engineer",
-      "type": "Full-Time",
-      "location": "Dallas, TX",
-      "description": "Exciting opportunity for a Software Engineer to join our team in Dallas. We are seeking a talented individual with a passion for coding and a desire to create innovative software solutions.",
-      "salary": "$90K - $110K",
-      "company": {
-        "name": "CodeCrafters LLC",
-        "description": "CodeCrafters LLC is a software development company specializing in custom web and mobile applications. Our team is passionate about coding and dedicated to delivering top-notch solutions for our clients.",
-        "contactEmail": "contact@codecrafters.com",
-        "contactPhone": "555-012-3456",
-          "logo": "https://img.icons8.com/?size=64&id=48530&format=png"
-         "desc" :"A Software Engineer is responsible for designing, developing, and maintaining software applications that power the functionality of a platform. In the context of a job portal, a software engineer works on creating and optimizing the underlying code that supports the job search, job posting, user profiles, and other essential features of the portal. The engineer ensures that the portal is efficient, scalable, and capable of handling high volumes of traffic while meeting the needs of both job seekers and employers."
-
-
-      },
-      "role" :{
-          "one":"Write clean, efficient, and scalable code for job portal features such as job search functionality, applicant tracking systems, employer dashboards, and user profiles.",
-
-          "two":"Develop backend services, APIs, and databases to support the front-end and ensure a smooth user experience.",
-
-          "three":"Design the software architecture for the job portal, ensuring that it can scale as the user base grows.",
-
-          "four":"Choose the appropriate technologies and frameworks to ensure system reliability, performance, and maintainability.",
-          "five":"Collaborate with UI/UX designers to translate design wireframes into functional, responsive front-end components."
-
-        },
-        
-        "skill":{
-           "one":"Proficiency in languages such as JavaScript, Python, Ruby, Java, C#, or PHP, depending on the technology stack of the portal.",
-          "two":"Familiarity with frontend libraries and frameworks like React, Angular, or Vue.js, and backend frameworks such as Express.js, Django, or Spring Boot.",
-          "three":"Strong understanding of web development technologies like HTML5, CSS3, and JavaScript.",
-          "four":"Experience with responsive design, ensuring the portal is accessible on all devices (desktop, tablet, mobile).",
-          "five":"Experience working with relational (MySQL, PostgreSQL) or NoSQL databases (MongoDB, Cassandra).",
-        },
-      }
-    },
-    {
-      "id": "29",
-      "title": "IT Support Specialist",
-      "type": "Full-Time",
-      "location": "Miami, FL",
-      "description": "Join our team as an IT Support Specialist and help provide technical assistance to our employees. We are seeking a customer-focused individual with strong troubleshooting skills.",
-      "salary": "$70K - $90K",
-      "company": {
-        "name": "TechSupport Solutions",
-        "description": "TechSupport Solutions is a technical support company specializing in providing assistance to customers with technical issues. Our team is committed to delivering exceptional customer service.",
-        "contactEmail": "contact@techsupport.com",
-        "contactPhone": "555-234-5678",
-          "logo": "https://img.icons8.com/?size=50&id=qo70vnk5a9GL&format=png"
-         "desc" :"An IT Support Specialist is responsible for providing technical assistance, maintaining hardware and software systems, and troubleshooting IT-related issues for a company or its users. In the context of job portals, the IT Support Specialist ensures that the platform remains functional and accessible to users, addressing any technical challenges that may arise for job seekers, employers, or internal teams."
-      },
-      "role" :{
-          "one":"Provide support to users experiencing technical issues with the job portal, including login problems, error messages, and system crashes.",
-          "two":"Respond to and resolve incoming IT support requests via phone, email, or live chat.",
-          "three":"Troubleshoot and diagnose software, hardware, and network issues in a timely manner.",
-
-          "four":"Ensure that the job portal's systems (servers, applications, databases) are running efficiently by conducting regular maintenance and updates.",
-          "five":"Install, configure, and update software tools necessary for the job portal's smooth operation."
-        },
-        
-        "skill":{
-           "one":"Proficient in troubleshooting hardware and software problems, including operating systems (Windows, macOS, Linux), networking, and cloud-based applications.",
-          "two":"Familiarity with database management, servers, and network infrastructure, as well as web-based applications.",
-
-          "three":"Strong analytical skills to identify, diagnose, and resolve technical issues quickly and effectively.",
-          "four":"Ability to think critically and provide practical solutions to complex technical problems.",
-
-          "five":"Strong communication and interpersonal skills to assist users effectively and patiently."
-        },
-      }
-    },
-    {
-      "id": "30",
-      "title": "UI/UX Designer",
-      "type": "Full-Time",
-      "location": "Los Angeles, CA",
-      "description": "Exciting opportunity for a UI/UX Designer to join our team in Los Angeles. We are seeking a creative individual with a passion for user experience design and a desire to create seamless and intuitive designs.",
-      "salary": "$80K - $100K",
-      "company": {
-        "name": "UXWorks Inc",
-        "description": "UXWorks Inc is a design agency specializing in user experience design and usability testing. Our team is committed to creating innovative and user-friendly designs that enhance the user experience.",
-        "contactEmail": "contact@uxworks.com",
-        "contactPhone": "555-345-6789",
-          "logo": "https://img.icons8.com/?size=80&id=6cdJEps4HrFl&format=png"
-        "desc" :"A UI/UX Designer is responsible for designing and improving the overall user experience and user interface of a product or website. In the context of job portals, the designer focuses on creating intuitive, visually appealing, and functional designs that enhance user interaction. The goal is to ensure that job seekers and employers have a seamless experience when navigating the portal to search for jobs, post job openings, or engage with any other features the platform provides."
-
-
-      },
-      "role" :{
-          "one":"Conducting user research and usability studies to understand user needs, pain points, and behavior.",
-          "two":"analyzing competitor job portals and gathering industry best practices to inform design decisions.",
-          "three":"Creating wireframes, mockups, and prototypes to visualize and test the design concepts before final development.",
-
-          "four":"Ensuring the design is both user-friendly and aesthetically pleasing.",
-          "five":"Working closely with developers to ensure the designs are implemented accurately in the final product.",
-
-        },
-        
-        "skill":{
-           "one":"Proficiency in design tools such as Adobe XD, Figma, Sketch, or InVision for creating wireframes, mockups, and prototypes.",
-
-          "two":"Knowledge of design tools like Photoshop or Illustrator for creating graphics.",
-
-          "three":"Deep understanding of user-centered design principles, focusing on creating products that prioritize the needs of the user.",
-
-          "four":"Ability to create interactive prototypes and wireframes to represent the structure and flow of the portal before development.",
-          "five":"Strong attention to detail in both visual and functional aspects of the job portal to ensure a polished, professional design.",
-
-        },
 }
     }
