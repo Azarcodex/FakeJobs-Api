@@ -253,7 +253,8 @@
     "description": "FrontEnd Solutions is a software development company specializing in front-end technologies and user interface design. Our team is committed to delivering high-quality solutions that exceed client expectations.",
     "contactEmail": "contact@frontend.com",
     "contactPhone": "555-890-1234",
-    "logo": "https://img.icons8.com/?size=80&id=1JUHO6zCh8kP&format=png"
+    "logo": "https://img.icons8.com/?size=80&id=1JUHO6zCh8kP&format=png",
+    "desc":"We are seeking a skilled Front-End Developer to join our dynamic team. In this role, you will be responsible for creating visually appealing and user-friendly web interfaces that enhance user experience. You'll work closely with our design and back-end teams to deliver responsive and engaging applications."
   },
   "role": {
     "one": "Design, develop, test, and maintain the front-end of web applications, including UI components, layouts, and interactions.",
@@ -498,7 +499,8 @@
     "description": "NetWorks Technologies is a network infrastructure company specializing in network design and optimization. Our team is committed to delivering reliable and scalable network solutions.",
     "contactEmail": "contact@networks.com",
     "contactPhone": "555-678-9012",
-    "logo": "https://img.icons8.com/?size=80&id=YRMZko4GlquD&format=png"
+    "logo": "https://img.icons8.com/?size=80&id=YRMZko4GlquD&format=png",
+    "desc":"We are seeking a skilled Network Engineer to design, implement, and maintain our network infrastructure. The ideal candidate will be responsible for ensuring the stability, security, and efficiency of our networks, including routers, switches, firewalls, and wireless systems. This role involves troubleshooting network issues, optimizing performance, and implementing security measures to protect data integrity. Additionally, the Network Engineer will collaborate with IT teams to integrate cloud-based networking solutions, document network configurations, and stay updated with emerging technologies. Strong problem-solving skills, knowledge of networking protocols, and experience with enterprise-grade network equipment are essential for success in this role."
   },
   "role": {
     "one": "Design, implement, and maintain network infrastructure, including routers, switches, and firewalls.",
@@ -529,7 +531,8 @@
     "description": "ProjectWorks Inc is a project management company specializing in IT projects and consulting. Our team is dedicated to delivering successful outcomes for our clients.",
     "contactEmail": "contact@projectworks.com",
     "contactPhone": "555-789-0123",
-    "logo": "https://img.icons8.com/?size=80&id=99370&format=png"
+    "logo": "https://img.icons8.com/?size=80&id=99370&format=png",
+    "desc":"We are looking for a strategic and results-driven IT Product Manager to lead the development and execution of innovative technology solutions. This role involves defining product roadmaps, gathering business requirements, and collaborating with cross-functional teams to deliver high-quality IT products. The ideal candidate will have a strong technical background, excellent project management skills, and the ability to translate business needs into scalable solutions. Responsibilities include overseeing the entire product lifecycle, optimizing user experience, managing stakeholder expectations, and ensuring alignment with company objectives."
   },
   "role": {
     "one": "Lead IT projects from initiation to completion, ensuring timely and within-budget delivery.",
@@ -559,7 +562,8 @@
     "description": "TechSupport Solutions is a technical support company specializing in providing assistance to customers with technical issues. Our team is committed to delivering exceptional customer service.",
     "contactEmail": "contact@techsupport.com",
     "contactPhone": "555-890-1234",
-    "logo": "https://img.icons8.com/?size=80&id=pbmB9CBpYXDI&format=png"
+    "logo": "https://img.icons8.com/?size=80&id=pbmB9CBpYXDI&format=png",
+    "desc":"We are seeking a detail-oriented and customer-focused Technical Support Specialist to provide high-quality technical assistance to end-users. This role involves troubleshooting hardware, software, and network-related issues, ensuring prompt resolution of technical problems. The ideal candidate will have strong problem-solving skills, excellent communication abilities, and a passion for helping users navigate technical challenges. Responsibilities include diagnosing and resolving technical issues, documenting support cases, escalating complex problems when necessary, and contributing to process improvements"
   },
   "role": {
     "one": "Provide technical support to customers via phone, email, and chat.",
@@ -590,6 +594,7 @@
     "contactEmail": "contact@itconsulting.com",
     "contactPhone": "555-901-2345",
     "logo": "https://img.icons8.com/?size=80&id=G6r6ZzcR8khC&format=png"
+    "desc":"We are looking for a knowledgeable and strategic IT Consultant to help businesses optimize their technology infrastructure and digital transformation strategies. This role involves assessing clients' IT needs, recommending tailored solutions, and implementing cutting-edge technologies to improve efficiency and security. The ideal candidate will have strong analytical skills, expertise in IT systems, and experience in project managemen"
   },
   "role": {
     "one": "Analyze client IT needs and develop tailored technology solutions.",
@@ -619,7 +624,8 @@
     "description": "CloudWorks Technologies is a cloud computing company specializing in infrastructure management and automation. Our team is committed to helping businesses leverage the power of the cloud to drive innovation and efficiency.",
     "contactEmail": "contact@cloudworks.com",
     "contactPhone": "555-012-3456",
-    "logo": "https://img.icons8.com/?size=80&id=K1cUzO7Cj2h0&format=png"
+    "logo": "https://img.icons8.com/?size=80&id=K1cUzO7Cj2h0&format=png",
+    "desc":"We are seeking a detail-oriented and customer-focused cloud technologist to provide high-quality technical assistance to end-users. This role involves troubleshooting hardware, software, and network-related issues, ensuring prompt resolution of technical problems. The ideal candidate will have strong problem-solving skills, excellent communication abilities, and a passion for helping users navigate technical challenges. Responsibilities include diagnosing and resolving technical issues, documenting support cases, escalating complex problems when necessary, and contributing to process improvements"
   },
   "role": {
     "one": "Design, implement, and maintain cloud-based solutions for clients.",
