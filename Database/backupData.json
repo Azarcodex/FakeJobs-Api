@@ -23,7 +23,7 @@
         "four": "Ensuring the design is both user-friendly and aesthetically pleasing.",
         "five": "Working closely with developers to ensure the designs are implemented accurately in the final product."
       },
-      "skill": {
+      "skills": {
         "one": "Proficiency in design tools such as Adobe XD, Figma, Sketch, or InVision for creating wireframes, mockups, and prototypes.",
         "two": "Knowledge of design tools like Photoshop or Illustrator for creating graphics.",
         "three": "Deep understanding of user-centered design principles, focusing on creating products that prioritize the needs of the user.",
@@ -53,7 +53,7 @@
         "four": "Design components such as buttons, menus, forms, filters, and navigation bars to support user flow.",
         "five": "Ensure consistency in the design by establishing UI style guides and pattern libraries."
       },
-      "skill": {
+      "skills": {
         "one": "Expertise in design software such as Adobe XD, Sketch, Figma, Photoshop, Illustrator, etc.",
         "two": "Knowledge of prototyping tools such as InVision, Marvel, or Proto.io.",
         "three": "Understanding of visual design principles like layout, color theory, typography, and grid systems.",
@@ -819,7 +819,7 @@
     "four": "Security & Backup: Implement network security measures (firewalls, encryption, etc.), monitor for any unauthorized access, and ensure that data backups are regularly completed.",
     "five": "System Updates: Keep the network up to date by installing system updates and patches."
   },
-  "skill": {
+  "skills": {
     "one": "Technical Knowledge: Strong understanding of networking protocols (TCP/IP, DNS, DHCP, etc.) and network devices (routers, switches, firewalls).",
     "two": "Network Troubleshooting: Ability to diagnose and resolve issues related to network connectivity, performance, and security.",
     "three": "Security Knowledge: Proficient in network security protocols and practices (e.g., VPNs, firewalls, intrusion detection systems).",
@@ -849,7 +849,7 @@
     "four": "Choose the appropriate technologies and frameworks to ensure system reliability, performance, and maintainability.",
     "five": "Collaborate with UI/UX designers to translate design wireframes into functional, responsive front-end components."
   },
-  "skill": {
+  "skills": {
     "one": "Proficiency in languages such as JavaScript, Python, Ruby, Java, C#, or PHP, depending on the technology stack of the portal.",
     "two": "Familiarity with frontend libraries and frameworks like React, Angular, or Vue.js, and backend frameworks such as Express.js, Django, or Spring Boot.",
     "three": "Strong understanding of web development technologies like HTML5, CSS3, and JavaScript.",
@@ -880,7 +880,7 @@
     "four": "Ensure that the job portal's systems (servers, applications, databases) are running efficiently by conducting regular maintenance and updates.",
     "five": "Install, configure, and update software tools necessary for the job portal's smooth operation."
   },
-  "skill": {
+  "skills": {
     "one": "Proficient in troubleshooting hardware and software problems, including operating systems (Windows, macOS, Linux), networking, and cloud-based applications.",
     "two": "Familiarity with database management, servers, and network infrastructure, as well as web-based applications.",
     "three": "Strong analytical skills to identify, diagnose, and resolve technical issues quickly and effectively.",
@@ -912,7 +912,7 @@
     "four": "Ensuring the design is both user-friendly and aesthetically pleasing.",
     "five": "Working closely with developers to ensure the designs are implemented accurately in the final product."
   },
-  "skill": {
+  "skills": {
     "one": "Proficiency in design tools such as Adobe XD, Figma, Sketch, or InVision for creating wireframes, mockups, and prototypes.",
     "two": "Knowledge of design tools like Photoshop or Illustrator for creating graphics.",
     "three": "Deep understanding of user-centered design principles, focusing on creating products that prioritize the needs of the user.",
